@@ -14,7 +14,7 @@
       },
       "position": {
         "x": 48,
-        "y": 5254
+        "y": 2116
       },
       "style": {
         "width": 172,
@@ -36,7 +36,7 @@
       },
       "position": {
         "x": 48,
-        "y": 10248
+        "y": 1614
       },
       "style": {
         "width": 172,
@@ -58,7 +58,7 @@
       },
       "position": {
         "x": 48,
-        "y": 10720
+        "y": 964
       },
       "style": {
         "width": 172,
@@ -85,7 +85,7 @@
       },
       "position": {
         "x": 16,
-        "y": 10484
+        "y": 1880
       },
       "style": {
         "width": 236,
@@ -107,7 +107,7 @@
       },
       "position": {
         "x": 36,
-        "y": 11900
+        "y": 236
       },
       "style": {
         "width": 196,
@@ -134,7 +134,7 @@
       },
       "position": {
         "x": 0,
-        "y": 11428
+        "y": 3060
       },
       "style": {
         "width": 268,
@@ -156,7 +156,7 @@
       },
       "position": {
         "x": 8,
-        "y": 11664
+        "y": 3296
       },
       "style": {
         "width": 252,
@@ -178,7 +178,7 @@
       },
       "position": {
         "x": 28,
-        "y": 18124
+        "y": 3532
       },
       "style": {
         "width": 212,
@@ -200,7 +200,7 @@
       },
       "position": {
         "x": 12,
-        "y": 10956
+        "y": 708
       },
       "style": {
         "width": 244,
@@ -222,7 +222,7 @@
       },
       "position": {
         "x": 48,
-        "y": 12844
+        "y": 1220
       },
       "style": {
         "width": 172,
@@ -244,7 +244,7 @@
       },
       "position": {
         "x": 48,
-        "y": 10012
+        "y": 472
       },
       "style": {
         "width": 172,
@@ -266,7 +266,7 @@
       },
       "position": {
         "x": 48,
-        "y": 11192
+        "y": 2588
       },
       "style": {
         "width": 172,
@@ -288,7 +288,7 @@
       },
       "position": {
         "x": 20,
-        "y": 12608
+        "y": 2352
       },
       "style": {
         "width": 228,
@@ -310,7 +310,7 @@
       },
       "position": {
         "x": 32,
-        "y": 12372
+        "y": 0
       },
       "style": {
         "width": 204,
@@ -332,7 +332,7 @@
       },
       "position": {
         "x": 32,
-        "y": 12136
+        "y": 2824
       },
       "style": {
         "width": 204,
@@ -354,7 +354,7 @@
       },
       "position": {
         "x": 428,
-        "y": 2766
+        "y": 1870
       },
       "style": {
         "width": 228,
@@ -376,7 +376,7 @@
       },
       "position": {
         "x": 384,
-        "y": 3730
+        "y": 2322
       },
       "style": {
         "width": 316,
@@ -398,7 +398,7 @@
       },
       "position": {
         "x": 412,
-        "y": 5018
+        "y": 836
       },
       "style": {
         "width": 260,
@@ -420,7 +420,7 @@
       },
       "position": {
         "x": 396,
-        "y": 16372
+        "y": 2608
       },
       "style": {
         "width": 292,
@@ -442,7 +442,7 @@
       },
       "position": {
         "x": 380,
-        "y": 11290
+        "y": 3286
       },
       "style": {
         "width": 324,
@@ -464,7 +464,7 @@
       },
       "position": {
         "x": 368,
-        "y": 7270
+        "y": 1082
       },
       "style": {
         "width": 348,
@@ -486,7 +486,7 @@
       },
       "position": {
         "x": 436,
-        "y": 18432
+        "y": 1584
       },
       "style": {
         "width": 212,
@@ -508,7 +508,7 @@
       },
       "position": {
         "x": 428,
-        "y": 6896
+        "y": 472
       },
       "style": {
         "width": 228,
@@ -529,8 +529,8 @@
         "editing": false
       },
       "position": {
-        "x": 880,
-        "y": 1248
+        "x": 872,
+        "y": 2756
       },
       "style": {
         "width": 236,
@@ -551,8 +551,8 @@
         "editing": false
       },
       "position": {
-        "x": 880,
-        "y": 3240
+        "x": 872,
+        "y": 2392
       },
       "style": {
         "width": 236,
@@ -573,8 +573,8 @@
         "editing": false
       },
       "position": {
-        "x": 828,
-        "y": 7534
+        "x": 820,
+        "y": 974
       },
       "style": {
         "width": 340,
@@ -595,8 +595,8 @@
         "editing": false
       },
       "position": {
-        "x": 864,
-        "y": 17384
+        "x": 856,
+        "y": 2096
       },
       "style": {
         "width": 268,
@@ -617,8 +617,8 @@
         "editing": false
       },
       "position": {
-        "x": 824,
-        "y": 13156
+        "x": 816,
+        "y": 1348
       },
       "style": {
         "width": 348,
@@ -639,8 +639,8 @@
         "editing": false
       },
       "position": {
-        "x": 900,
-        "y": 10512
+        "x": 892,
+        "y": 728
       },
       "style": {
         "width": 196,
@@ -661,8 +661,8 @@
         "editing": false
       },
       "position": {
-        "x": 844,
-        "y": 19792
+        "x": 836,
+        "y": 3444
       },
       "style": {
         "width": 308,
@@ -683,8 +683,8 @@
         "editing": false
       },
       "position": {
-        "x": 832,
-        "y": 4400
+        "x": 824,
+        "y": 1584
       },
       "style": {
         "width": 332,
@@ -701,16 +701,15 @@
         "label": "Provide a library of at least 50 pre-built hardware blocks (ALU, FIFO, UART, SPI, I2C, etc.) available as drag-and-drop nodes",
         "impact": 5,
         "impactInsights": "A rich starter library is fundamental to a *visual* hardware IDE: without ready blocks users cannot rapidly prototype. Directly supports the core value-prop of “assemble blocks visually like GNU Radio.”",
-        "startDate": "",
+        "startDate": "2025-08-25",
         "dueDate": "",
         "collapsed": false,
         "weight": 24,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1638,
-        "y": 5378
+        "y": 5160
       },
       "style": {
         "width": 1020,
@@ -727,16 +726,15 @@
         "label": "Maintain automatic synchronization between visual block and equivalent Verilog/Python code snippet for every template",
         "impact": 5,
         "impactInsights": "Bi-directional sync between diagram and code is mission-critical; it underpins the promise of combining *visual* and *text* flows and avoids drift bugs.",
-        "startDate": "",
+        "startDate": "2025-08-25",
         "dueDate": "",
         "collapsed": false,
         "weight": 24,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1670,
-        "y": 5722
+        "y": 5504
       },
       "style": {
         "width": 956,
@@ -757,12 +755,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 24,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1730,
-        "y": 6066
+        "y": 5848
       },
       "style": {
         "width": 836,
@@ -783,12 +780,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 24,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1810,
-        "y": 6410
+        "y": 6192
       },
       "style": {
         "width": 676,
@@ -809,12 +805,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 24,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1726,
-        "y": 6754
+        "y": 6536
       },
       "style": {
         "width": 844,
@@ -835,12 +830,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 24,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1654,
-        "y": 7098
+        "y": 6880
       },
       "style": {
         "width": 988,
@@ -854,19 +848,18 @@
       "id": "templateAutoDocumentation",
       "type": "requirement",
       "data": {
-        "label": "Auto-generate schematic, timing diagram, and integration examples for each template and display within documentation pane",
+        "label": "Auto-generate schematic, timing diagram, and integration examples for each template and display within documentation panel",
         "impact": 3,
         "impactInsights": "Quality docs are important for adoption but can be delivered incrementally; not a core simulation/design capability.",
         "startDate": "",
         "dueDate": "",
         "collapsed": false,
         "weight": 24,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1654,
-        "y": 7442
+        "y": 7224
       },
       "style": {
         "width": 988,
@@ -887,12 +880,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 24,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1742,
-        "y": 7786
+        "y": 7568
       },
       "style": {
         "width": 812,
@@ -909,12 +901,11 @@
         "label": "Drag-and-Drop Block Placement with Snap-to-Grid & Port Auto-Align",
         "impact": 5,
         "impactInsights": "Core UX mechanic; directly delivers the ‘visual assembly’ promise.",
-        "startDate": "",
+        "startDate": "2025-08-25",
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1878,
@@ -939,8 +930,7 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1898,
@@ -961,12 +951,11 @@
         "label": "Embedded Verilog or Python Code-Snippet Nodes with Syntax Highlighting & Linting",
         "impact": 5,
         "impactInsights": "Text nodes bridge custom logic into the visual graph—central to the hybrid ‘visual + code’ concept.",
-        "startDate": "",
+        "startDate": "2025-08-25",
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1818,
@@ -991,8 +980,7 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1858,
@@ -1017,8 +1005,7 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1906,
@@ -1043,8 +1030,7 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1830,
@@ -1069,8 +1055,7 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1930,
@@ -1095,8 +1080,7 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1902,
@@ -1121,8 +1105,7 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1718,
@@ -1147,8 +1130,7 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1590,
@@ -1173,8 +1155,7 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1678,
@@ -1199,8 +1180,7 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1722,
@@ -1225,8 +1205,7 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1462,
@@ -1251,8 +1230,7 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1674,
@@ -1277,12 +1255,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 20,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1662,
-        "y": 5034
+        "y": 4816
       },
       "style": {
         "width": 972,
@@ -1303,12 +1280,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 10,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1750,
-        "y": 8130
+        "y": 7912
       },
       "style": {
         "width": 796,
@@ -1329,12 +1305,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 10,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1650,
-        "y": 8474
+        "y": 8256
       },
       "style": {
         "width": 996,
@@ -1355,12 +1330,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 10,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1854,
-        "y": 8892
+        "y": 8600
       },
       "style": {
         "width": 588,
@@ -1381,12 +1355,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 10,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1882,
-        "y": 9236
+        "y": 8944
       },
       "style": {
         "width": 532,
@@ -1407,12 +1380,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 10,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1770,
-        "y": 9580
+        "y": 9288
       },
       "style": {
         "width": 756,
@@ -1433,12 +1405,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 10,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1742,
-        "y": 9924
+        "y": 9632
       },
       "style": {
         "width": 812,
@@ -1459,12 +1430,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 22,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1718,
-        "y": 10268
+        "y": 9976
       },
       "style": {
         "width": 860,
@@ -1485,12 +1455,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 22,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1794,
-        "y": 10612
+        "y": 10320
       },
       "style": {
         "width": 708,
@@ -1511,12 +1480,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 22,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1822,
-        "y": 10956
+        "y": 10664
       },
       "style": {
         "width": 652,
@@ -1537,12 +1505,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 22,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1762,
-        "y": 11300
+        "y": 11008
       },
       "style": {
         "width": 772,
@@ -1563,12 +1530,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 22,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1718,
-        "y": 11644
+        "y": 11352
       },
       "style": {
         "width": 860,
@@ -1589,12 +1555,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 22,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1710,
-        "y": 11988
+        "y": 11696
       },
       "style": {
         "width": 876,
@@ -1615,12 +1580,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 22,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1758,
-        "y": 12332
+        "y": 12040
       },
       "style": {
         "width": 780,
@@ -1641,12 +1605,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 22,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1678,
-        "y": 12676
+        "y": 12384
       },
       "style": {
         "width": 940,
@@ -1667,12 +1630,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 22,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1722,
-        "y": 13020
+        "y": 12728
       },
       "style": {
         "width": 852,
@@ -1693,12 +1655,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 22,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1702,
-        "y": 13364
+        "y": 13072
       },
       "style": {
         "width": 892,
@@ -1719,12 +1680,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 19,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1586,
-        "y": 16460
+        "y": 16168
       },
       "style": {
         "width": 1124,
@@ -1745,12 +1705,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 19,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1510,
-        "y": 16804
+        "y": 16512
       },
       "style": {
         "width": 1276,
@@ -1771,12 +1730,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 19,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1610,
-        "y": 17148
+        "y": 16856
       },
       "style": {
         "width": 1076,
@@ -1797,12 +1755,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 19,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1430,
-        "y": 17492
+        "y": 17200
       },
       "style": {
         "width": 1436,
@@ -1823,12 +1780,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 19,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1658,
-        "y": 17836
+        "y": 17544
       },
       "style": {
         "width": 980,
@@ -1849,12 +1805,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 19,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1630,
-        "y": 18180
+        "y": 17888
       },
       "style": {
         "width": 1036,
@@ -1875,12 +1830,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 19,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1578,
-        "y": 18524
+        "y": 18232
       },
       "style": {
         "width": 1140,
@@ -1901,12 +1855,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 11,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1606,
-        "y": 13708
+        "y": 13416
       },
       "style": {
         "width": 1084,
@@ -1927,12 +1880,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 11,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1618,
-        "y": 14052
+        "y": 13760
       },
       "style": {
         "width": 1060,
@@ -1953,12 +1905,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 11,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1610,
-        "y": 14396
+        "y": 14104
       },
       "style": {
         "width": 1076,
@@ -1979,12 +1930,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 11,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1622,
-        "y": 14740
+        "y": 14448
       },
       "style": {
         "width": 1052,
@@ -2005,12 +1955,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 11,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1738,
-        "y": 15084
+        "y": 14792
       },
       "style": {
         "width": 820,
@@ -2031,12 +1980,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 11,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1654,
-        "y": 15428
+        "y": 15136
       },
       "style": {
         "width": 988,
@@ -2057,12 +2005,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 11,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1638,
-        "y": 15772
+        "y": 15480
       },
       "style": {
         "width": 1020,
@@ -2083,12 +2030,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 11,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1534,
-        "y": 16116
+        "y": 15824
       },
       "style": {
         "width": 1228,
@@ -2109,12 +2055,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 4,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1614,
-        "y": 18868
+        "y": 18576
       },
       "style": {
         "width": 1068,
@@ -2135,12 +2080,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 4,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1586,
-        "y": 19212
+        "y": 18920
       },
       "style": {
         "width": 1124,
@@ -2161,12 +2105,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 4,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1642,
-        "y": 19556
+        "y": 19264
       },
       "style": {
         "width": 1012,
@@ -2187,12 +2130,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 4,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1630,
-        "y": 19900
+        "y": 19608
       },
       "style": {
         "width": 1036,
@@ -2213,12 +2155,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 4,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1610,
-        "y": 20244
+        "y": 19952
       },
       "style": {
         "width": 1076,
@@ -2239,12 +2180,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 4,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1650,
-        "y": 20588
+        "y": 20296
       },
       "style": {
         "width": 996,
@@ -2265,12 +2205,11 @@
         "dueDate": "",
         "collapsed": false,
         "weight": 4,
-        "maxWeight": 24,
-        "editing": false
+        "maxWeight": 24
       },
       "position": {
         "x": 1714,
-        "y": 20932
+        "y": 20640
       },
       "style": {
         "width": 868,
@@ -2290,7 +2229,7 @@
       },
       "position": {
         "x": 912,
-        "y": 2738
+        "y": 2650
       },
       "style": {
         "width": 172,
@@ -2315,7 +2254,7 @@
       },
       "position": {
         "x": 816,
-        "y": 6538
+        "y": 5640
       },
       "style": {
         "width": 388,
@@ -2340,7 +2279,7 @@
       },
       "position": {
         "x": 844,
-        "y": 10276
+        "y": 9984
       },
       "style": {
         "width": 332,
@@ -2365,7 +2304,7 @@
       },
       "position": {
         "x": 848,
-        "y": 17708
+        "y": 17416
       },
       "style": {
         "width": 324,
@@ -2385,7 +2324,7 @@
       },
       "position": {
         "x": 828,
-        "y": 15816
+        "y": 15524
       },
       "style": {
         "width": 364,
@@ -2405,12 +2344,15 @@
       "type": "roadmap",
       "position": {
         "x": 912,
-        "y": 5560
+        "y": 1592
       },
       "data": {
         "label": "V6 - Improvements",
         "collapsed": false
-      }
+      },
+      "selected": false,
+      "width": 168,
+      "height": 50
     }
   ],
   "edges": [
@@ -3545,12 +3487,8 @@
     {
       "id": "e_roadmap_1VkqwcOIu3_gitVersionControlExport",
       "source": "roadmap_1VkqwcOIu3",
-      "target": "gitVersionControlExport"
-    },
-    {
-      "id": "e_roadmap_1VkqwcOIu3_reusableSnippetLibrary",
-      "source": "roadmap_1VkqwcOIu3",
-      "target": "reusableSnippetLibrary"
+      "target": "gitVersionControlExport",
+      "selected": false
     },
     {
       "id": "e_roadmap_1VkqwcOIu3_snippetVersioning",
@@ -3558,14 +3496,19 @@
       "target": "snippetVersioning"
     },
     {
+      "id": "e_roadmap_1VkqwcOIu3_reusableSnippetLibrary",
+      "source": "roadmap_1VkqwcOIu3",
+      "target": "reusableSnippetLibrary"
+    },
+    {
+      "id": "e_roadmap_1VkqwcOIu3_cocotbIntegrationSupport",
+      "source": "roadmap_1VkqwcOIu3",
+      "target": "cocotbIntegrationSupport"
+    },
+    {
       "id": "e_roadmap_1VkqwcOIu3_verilatorSVCompileCoverage",
       "source": "roadmap_1VkqwcOIu3",
       "target": "verilatorSVCompileCoverage"
-    },
-    {
-      "id": "e_roadmap_1VkqwcOIu3_headlessCiCli",
-      "source": "roadmap_1VkqwcOIu3",
-      "target": "headlessCiCli"
     },
     {
       "id": "e_roadmap_1VkqwcOIu3_uiInteractiveDebugging",
@@ -3573,9 +3516,9 @@
       "target": "uiInteractiveDebugging"
     },
     {
-      "id": "e_roadmap_1VkqwcOIu3_cocotbIntegrationSupport",
+      "id": "e_roadmap_1VkqwcOIu3_headlessCiCli",
       "source": "roadmap_1VkqwcOIu3",
-      "target": "cocotbIntegrationSupport"
+      "target": "headlessCiCli"
     }
   ]
 }
