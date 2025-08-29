@@ -1,0 +1,3581 @@
+{
+  "productName": "Kinot",
+  "description": "Desktop tool to visually build and simulate hardware. Use a React Flow editor to assemble blocks or insert Verilog or Python code‑snippet nodes, then simulate with Cocotb and Verilator. Like GNU Radio for hardware — design, edit, and verify visually and with code.",
+  "nodes": [
+    {
+      "id": "hardwareEngineers",
+      "type": "stakeholder",
+      "data": {
+        "label": "Hardware Engineers",
+        "collapsed": false,
+        "weight": 2,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 48,
+        "y": 5254
+      },
+      "style": {
+        "width": 172,
+        "height": 36
+      },
+      "selected": false,
+      "width": 172,
+      "height": 36
+    },
+    {
+      "id": "fpgaDesigners",
+      "type": "stakeholder",
+      "data": {
+        "label": "FPGA Designers",
+        "collapsed": false,
+        "weight": 1,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 48,
+        "y": 10248
+      },
+      "style": {
+        "width": 172,
+        "height": 36
+      },
+      "selected": false,
+      "width": 172,
+      "height": 36
+    },
+    {
+      "id": "asicDesigners",
+      "type": "stakeholder",
+      "data": {
+        "label": "ASIC Designers",
+        "collapsed": false,
+        "weight": 2,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 48,
+        "y": 10720
+      },
+      "style": {
+        "width": 172,
+        "height": 36
+      },
+      "selected": false,
+      "width": 172,
+      "height": 36,
+      "positionAbsolute": {
+        "x": 48,
+        "y": 963
+      },
+      "dragging": false
+    },
+    {
+      "id": "embeddedDevelopers",
+      "type": "stakeholder",
+      "data": {
+        "label": "Embedded Systems Developers",
+        "collapsed": false,
+        "weight": 1,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 16,
+        "y": 10484
+      },
+      "style": {
+        "width": 236,
+        "height": 36
+      },
+      "selected": false,
+      "width": 236,
+      "height": 36
+    },
+    {
+      "id": "verificationEngineers",
+      "type": "stakeholder",
+      "data": {
+        "label": "Verification Engineers",
+        "collapsed": false,
+        "weight": 2,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 36,
+        "y": 11900
+      },
+      "style": {
+        "width": 196,
+        "height": 36
+      },
+      "selected": false,
+      "width": 196,
+      "height": 36,
+      "positionAbsolute": {
+        "x": 35.5,
+        "y": 236.5
+      },
+      "dragging": false
+    },
+    {
+      "id": "researchScientists",
+      "type": "stakeholder",
+      "data": {
+        "label": "Research Scientists / Academics",
+        "collapsed": false,
+        "weight": 1,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 0,
+        "y": 11428
+      },
+      "style": {
+        "width": 268,
+        "height": 36
+      },
+      "selected": false,
+      "width": 268,
+      "height": 36
+    },
+    {
+      "id": "engineeringStudents",
+      "type": "stakeholder",
+      "data": {
+        "label": "Computer Engineering Students",
+        "collapsed": false,
+        "weight": 1,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 8,
+        "y": 11664
+      },
+      "style": {
+        "width": 252,
+        "height": 36
+      },
+      "selected": false,
+      "width": 252,
+      "height": 36
+    },
+    {
+      "id": "openSourceCommunity",
+      "type": "stakeholder",
+      "data": {
+        "label": "Open-Source Contributors",
+        "collapsed": false,
+        "weight": 1,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 28,
+        "y": 18124
+      },
+      "style": {
+        "width": 212,
+        "height": 36
+      },
+      "selected": false,
+      "width": 212,
+      "height": 36
+    },
+    {
+      "id": "productManagers",
+      "type": "stakeholder",
+      "data": {
+        "label": "Electronics Product Managers",
+        "collapsed": false,
+        "weight": 1,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 12,
+        "y": 10956
+      },
+      "style": {
+        "width": 244,
+        "height": 36
+      },
+      "selected": false,
+      "width": 244,
+      "height": 36
+    },
+    {
+      "id": "edaVendors",
+      "type": "stakeholder",
+      "data": {
+        "label": "EDA Tool Vendors",
+        "collapsed": false,
+        "weight": 1,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 48,
+        "y": 12844
+      },
+      "style": {
+        "width": 172,
+        "height": 36
+      },
+      "selected": false,
+      "width": 172,
+      "height": 36
+    },
+    {
+      "id": "systemArchitects",
+      "type": "stakeholder",
+      "data": {
+        "label": "System Architects",
+        "collapsed": false,
+        "weight": 1.5,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 48,
+        "y": 10012
+      },
+      "style": {
+        "width": 172,
+        "height": 36
+      },
+      "selected": false,
+      "width": 172,
+      "height": 36
+    },
+    {
+      "id": "hobbyistsMakers",
+      "type": "stakeholder",
+      "data": {
+        "label": "Hobbyists / Makers",
+        "collapsed": false,
+        "weight": 1,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 48,
+        "y": 11192
+      },
+      "style": {
+        "width": 172,
+        "height": 36
+      },
+      "selected": false,
+      "width": 172,
+      "height": 36
+    },
+    {
+      "id": "itAdministrators",
+      "type": "stakeholder",
+      "data": {
+        "label": "IT Administrators / DevOps",
+        "collapsed": false,
+        "weight": 1,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 20,
+        "y": 12608
+      },
+      "style": {
+        "width": 228,
+        "height": 36
+      },
+      "selected": false,
+      "width": 228,
+      "height": 36
+    },
+    {
+      "id": "qualityAssurance",
+      "type": "stakeholder",
+      "data": {
+        "label": "Quality Assurance Teams",
+        "collapsed": false,
+        "weight": 1,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 32,
+        "y": 12372
+      },
+      "style": {
+        "width": 204,
+        "height": 36
+      },
+      "selected": false,
+      "width": 204,
+      "height": 36
+    },
+    {
+      "id": "educatorsInstructors",
+      "type": "stakeholder",
+      "data": {
+        "label": "Educators / Instructors",
+        "collapsed": false,
+        "weight": 1,
+        "maxWeight": 2,
+        "editing": false
+      },
+      "position": {
+        "x": 32,
+        "y": 12136
+      },
+      "style": {
+        "width": 204,
+        "height": 36
+      },
+      "selected": false,
+      "width": 204,
+      "height": 36
+    },
+    {
+      "id": "rapidPrototyping",
+      "type": "keydriver",
+      "data": {
+        "label": "Rapid Hardware Prototyping",
+        "collapsed": false,
+        "weight": 10.5,
+        "maxWeight": 12.5,
+        "editing": false
+      },
+      "position": {
+        "x": 428,
+        "y": 2766
+      },
+      "style": {
+        "width": 228,
+        "height": 36
+      },
+      "selected": false,
+      "width": 228,
+      "height": 36
+    },
+    {
+      "id": "visualCodeWorkflow",
+      "type": "keydriver",
+      "data": {
+        "label": "Unified Visual & Code Design Workflow",
+        "collapsed": false,
+        "weight": 9.5,
+        "maxWeight": 12.5,
+        "editing": false
+      },
+      "position": {
+        "x": 384,
+        "y": 3730
+      },
+      "style": {
+        "width": 316,
+        "height": 36
+      },
+      "selected": false,
+      "width": 316,
+      "height": 36
+    },
+    {
+      "id": "fastVerification",
+      "type": "keydriver",
+      "data": {
+        "label": "Fast Simulation & Verification",
+        "collapsed": false,
+        "weight": 10,
+        "maxWeight": 12.5,
+        "editing": false
+      },
+      "position": {
+        "x": 412,
+        "y": 5018
+      },
+      "style": {
+        "width": 260,
+        "height": 36
+      },
+      "selected": false,
+      "width": 260,
+      "height": 36
+    },
+    {
+      "id": "costEffectiveOpenSource",
+      "type": "keydriver",
+      "data": {
+        "label": "Cost-Effective Open-Source Tooling",
+        "collapsed": false,
+        "weight": 8,
+        "maxWeight": 12.5,
+        "editing": false
+      },
+      "position": {
+        "x": 396,
+        "y": 16372
+      },
+      "style": {
+        "width": 292,
+        "height": 36
+      },
+      "selected": false,
+      "width": 292,
+      "height": 36
+    },
+    {
+      "id": "educationTraining",
+      "type": "keydriver",
+      "data": {
+        "label": "Hands-On Hardware Education & Training",
+        "collapsed": false,
+        "weight": 4,
+        "maxWeight": 12.5,
+        "editing": false
+      },
+      "position": {
+        "x": 380,
+        "y": 11290
+      },
+      "style": {
+        "width": 324,
+        "height": 36
+      },
+      "selected": false,
+      "width": 324,
+      "height": 36
+    },
+    {
+      "id": "interoperability",
+      "type": "keydriver",
+      "data": {
+        "label": "Interoperability with Existing Toolchains",
+        "collapsed": false,
+        "weight": 12.5,
+        "maxWeight": 12.5,
+        "editing": false
+      },
+      "position": {
+        "x": 368,
+        "y": 7270
+      },
+      "style": {
+        "width": 348,
+        "height": 36
+      },
+      "selected": false,
+      "width": 348,
+      "height": 36
+    },
+    {
+      "id": "collaborationReuse",
+      "type": "keydriver",
+      "data": {
+        "label": "Collaboration & IP Reuse",
+        "collapsed": false,
+        "weight": 11,
+        "maxWeight": 12.5,
+        "editing": false
+      },
+      "position": {
+        "x": 436,
+        "y": 18432
+      },
+      "style": {
+        "width": 212,
+        "height": 36
+      },
+      "selected": false,
+      "width": 212,
+      "height": 36
+    },
+    {
+      "id": "timeToMarket",
+      "type": "keydriver",
+      "data": {
+        "label": "Accelerated Time-to-Market",
+        "collapsed": false,
+        "weight": 9.5,
+        "maxWeight": 12.5,
+        "editing": false
+      },
+      "position": {
+        "x": 428,
+        "y": 6896
+      },
+      "style": {
+        "width": 228,
+        "height": 36
+      },
+      "selected": false,
+      "width": 228,
+      "height": 36
+    },
+    {
+      "id": "visualBlockEditor",
+      "type": "applicationdriver",
+      "data": {
+        "label": "Visual Block Diagram Editor",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 880,
+        "y": 1248
+      },
+      "style": {
+        "width": 236,
+        "height": 36
+      },
+      "width": 236,
+      "height": 36,
+      "selected": false
+    },
+    {
+      "id": "codeSnippetNodes",
+      "type": "applicationdriver",
+      "data": {
+        "label": "Embedded Code Snippet Nodes",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 880,
+        "y": 3240
+      },
+      "style": {
+        "width": 236,
+        "height": 36
+      },
+      "width": 236,
+      "height": 36,
+      "selected": false
+    },
+    {
+      "id": "integratedCocotbVerilatorSim",
+      "type": "applicationdriver",
+      "data": {
+        "label": "Integrated Cocotb & Verilator Simulation",
+        "collapsed": false,
+        "weight": 10,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 828,
+        "y": 7534
+      },
+      "style": {
+        "width": 340,
+        "height": 36
+      },
+      "width": 340,
+      "height": 36,
+      "selected": false
+    },
+    {
+      "id": "openSourcePluginArch",
+      "type": "applicationdriver",
+      "data": {
+        "label": "Open-Source Plugin Architecture",
+        "collapsed": false,
+        "weight": 19,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 864,
+        "y": 17384
+      },
+      "style": {
+        "width": 268,
+        "height": 36
+      },
+      "width": 268,
+      "height": 36,
+      "selected": false
+    },
+    {
+      "id": "collaborativeDesignSharing",
+      "type": "applicationdriver",
+      "data": {
+        "label": "Collaborative Design Sharing & IP Library",
+        "collapsed": false,
+        "weight": 11,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 824,
+        "y": 13156
+      },
+      "style": {
+        "width": 348,
+        "height": 36
+      },
+      "width": 348,
+      "height": 36,
+      "selected": false
+    },
+    {
+      "id": "multiToolchainExport",
+      "type": "applicationdriver",
+      "data": {
+        "label": "Multi-Toolchain Export",
+        "collapsed": false,
+        "weight": 22,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 900,
+        "y": 10512
+      },
+      "style": {
+        "width": 196,
+        "height": 36
+      },
+      "width": 196,
+      "height": 36,
+      "selected": false
+    },
+    {
+      "id": "interactiveTutorialMode",
+      "type": "applicationdriver",
+      "data": {
+        "label": "Interactive Tutorial & Learning Mode",
+        "collapsed": false,
+        "weight": 4,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 844,
+        "y": 19792
+      },
+      "style": {
+        "width": 308,
+        "height": 36
+      },
+      "width": 308,
+      "height": 36,
+      "selected": false
+    },
+    {
+      "id": "prototypeTemplates",
+      "type": "applicationdriver",
+      "data": {
+        "label": "Pre-Built Hardware Templates & Examples",
+        "collapsed": false,
+        "weight": 24,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 832,
+        "y": 4400
+      },
+      "style": {
+        "width": 332,
+        "height": 36
+      },
+      "width": 332,
+      "height": 36,
+      "selected": false
+    },
+    {
+      "id": "templateLibrary50Blocks",
+      "type": "requirement",
+      "data": {
+        "label": "Provide a library of at least 50 pre-built hardware blocks (ALU, FIFO, UART, SPI, I2C, etc.) available as drag-and-drop nodes",
+        "impact": 5,
+        "impactInsights": "A rich starter library is fundamental to a *visual* hardware IDE: without ready blocks users cannot rapidly prototype. Directly supports the core value-prop of “assemble blocks visually like GNU Radio.”",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 24,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1638,
+        "y": 5378
+      },
+      "style": {
+        "width": 1020,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1020,
+      "height": 144
+    },
+    {
+      "id": "templateDualRepresentationSync",
+      "type": "requirement",
+      "data": {
+        "label": "Maintain automatic synchronization between visual block and equivalent Verilog/Python code snippet for every template",
+        "impact": 5,
+        "impactInsights": "Bi-directional sync between diagram and code is mission-critical; it underpins the promise of combining *visual* and *text* flows and avoids drift bugs.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 24,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1670,
+        "y": 5722
+      },
+      "style": {
+        "width": 956,
+        "height": 144
+      },
+      "selected": false,
+      "width": 956,
+      "height": 144
+    },
+    {
+      "id": "templateHighCoverageTests",
+      "type": "requirement",
+      "data": {
+        "label": "Include Cocotb test benches for each template achieving ≥95% code coverage and passing all simulations",
+        "impact": 3,
+        "impactInsights": "High-coverage tests improve trust and demo value, but the tool can still function without shipping every template at 95 %.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 24,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1730,
+        "y": 6066
+      },
+      "style": {
+        "width": 836,
+        "height": 144
+      },
+      "selected": false,
+      "width": 836,
+      "height": 144
+    },
+    {
+      "id": "templateSemanticVersioning",
+      "type": "requirement",
+      "data": {
+        "label": "Apply semantic versioning with changelogs to every template release in the catalog",
+        "impact": 3,
+        "impactInsights": "Good for long-term maintenance and reproducibility yet not a hard blocker for initial usability.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 24,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1810,
+        "y": 6410
+      },
+      "style": {
+        "width": 676,
+        "height": 144
+      },
+      "selected": false,
+      "width": 676,
+      "height": 144
+    },
+    {
+      "id": "templateSearchFilterSub100ms",
+      "type": "requirement",
+      "data": {
+        "label": "Enable catalog search and filter operations to return results within 100 ms for 95th percentile queries",
+        "impact": 4,
+        "impactInsights": "Fast discovery of blocks critically affects day-to-day flow; sluggish search breaks productivity.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 24,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1726,
+        "y": 6754
+      },
+      "style": {
+        "width": 844,
+        "height": 144
+      },
+      "selected": false,
+      "width": 844,
+      "height": 144
+    },
+    {
+      "id": "templateUserCloneSave",
+      "type": "requirement",
+      "data": {
+        "label": "Allow users to clone, edit, and save custom versions of templates to personal or shared libraries via single-click action",
+        "impact": 4,
+        "impactInsights": "Customization encourages reuse and collaboration—high utility though not absolutely core to first MVP.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 24,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1654,
+        "y": 7098
+      },
+      "style": {
+        "width": 988,
+        "height": 144
+      },
+      "selected": false,
+      "width": 988,
+      "height": 144
+    },
+    {
+      "id": "templateAutoDocumentation",
+      "type": "requirement",
+      "data": {
+        "label": "Auto-generate schematic, timing diagram, and integration examples for each template and display within documentation pane",
+        "impact": 3,
+        "impactInsights": "Quality docs are important for adoption but can be delivered incrementally; not a core simulation/design capability.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 24,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1654,
+        "y": 7442
+      },
+      "style": {
+        "width": 988,
+        "height": 144
+      },
+      "selected": false,
+      "width": 988,
+      "height": 144
+    },
+    {
+      "id": "templateFpgaSynthesisPass",
+      "type": "requirement",
+      "data": {
+        "label": "Ensure all templates synthesize without errors on latest Xilinx Vivado and Intel Quartus toolchains",
+        "impact": 4,
+        "impactInsights": "Guarantees blocks work beyond simulation; key for users targeting real hardware.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 24,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1742,
+        "y": 7786
+      },
+      "style": {
+        "width": 812,
+        "height": 144
+      },
+      "selected": false,
+      "width": 812,
+      "height": 144
+    },
+    {
+      "id": "dragDropSnapGrid",
+      "type": "requirement",
+      "data": {
+        "label": "Drag-and-Drop Block Placement with Snap-to-Grid & Port Auto-Align",
+        "impact": 5,
+        "impactInsights": "Core UX mechanic; directly delivers the ‘visual assembly’ promise.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1878,
+        "y": 0
+      },
+      "style": {
+        "width": 540,
+        "height": 144
+      },
+      "selected": false,
+      "width": 540,
+      "height": 144
+    },
+    {
+      "id": "searchableBlockLibrary",
+      "type": "requirement",
+      "data": {
+        "label": "Library of ≥100 Parameterisable Blocks Searchable in ≤200 ms",
+        "impact": 4,
+        "impactInsights": "Scales the visual approach; search speed ties to usability for larger catalogs.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1898,
+        "y": 344
+      },
+      "style": {
+        "width": 500,
+        "height": 144
+      },
+      "selected": false,
+      "width": 500,
+      "height": 144
+    },
+    {
+      "id": "codeSnippetNodeSupport",
+      "type": "requirement",
+      "data": {
+        "label": "Embedded Verilog or Python Code-Snippet Nodes with Syntax Highlighting & Linting",
+        "impact": 5,
+        "impactInsights": "Text nodes bridge custom logic into the visual graph—central to the hybrid ‘visual + code’ concept.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1818,
+        "y": 688
+      },
+      "style": {
+        "width": 660,
+        "height": 144
+      },
+      "selected": false,
+      "width": 660,
+      "height": 144
+    },
+    {
+      "id": "realTimeConnectionValidation",
+      "type": "requirement",
+      "data": {
+        "label": "Real-Time Connection Validation Flagging Width/Type Mismatches in <1 s",
+        "impact": 5,
+        "impactInsights": "Immediate feedback prevents simulation failures; matching the user expectation of modern schematic editors.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1858,
+        "y": 1032
+      },
+      "style": {
+        "width": 580,
+        "height": 144
+      },
+      "selected": false,
+      "width": 580,
+      "height": 144
+    },
+    {
+      "id": "gitVersionControlExport",
+      "type": "requirement",
+      "data": {
+        "label": "One-Click Git Integration Exporting Diagram JSON & Netlist",
+        "impact": 4,
+        "impactInsights": "Hardware teams rely on Git; seamless export is high value for collaboration and CI, though not a core editor function.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1906,
+        "y": 1376
+      },
+      "style": {
+        "width": 484,
+        "height": 144
+      },
+      "selected": false,
+      "width": 484,
+      "height": 144
+    },
+    {
+      "id": "verilogNetlistExport",
+      "type": "requirement",
+      "data": {
+        "label": "Export Full Diagram to Synthesizable Verilog Netlist in <10 s for ≤500 Blocks",
+        "impact": 5,
+        "impactInsights": "Without correct Verilog export the tool cannot feed downstream flows; absolutely fundamental.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1830,
+        "y": 1720
+      },
+      "style": {
+        "width": 636,
+        "height": 144
+      },
+      "selected": false,
+      "width": 636,
+      "height": 144
+    },
+    {
+      "id": "undoRedoHistory",
+      "type": "requirement",
+      "data": {
+        "label": "Undo/Redo History Supporting ≥50 Consecutive Actions",
+        "impact": 4,
+        "impactInsights": "Standard productivity feature; users expect safe exploration. Absence leads to frustration.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1930,
+        "y": 2064
+      },
+      "style": {
+        "width": 436,
+        "height": 144
+      },
+      "selected": false,
+      "width": 436,
+      "height": 144
+    },
+    {
+      "id": "performanceZoomPan1000Nodes",
+      "type": "requirement",
+      "data": {
+        "label": "Smooth Zoom & Pan at 60 fps with Diagrams up to 1 000 Nodes",
+        "impact": 4,
+        "impactInsights": "Performance at scale affects perceived quality and determines whether serious projects are feasible.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1902,
+        "y": 2408
+      },
+      "style": {
+        "width": 492,
+        "height": 144
+      },
+      "selected": false,
+      "width": 492,
+      "height": 144
+    },
+    {
+      "id": "codeSnippetLanguageSupport",
+      "type": "requirement",
+      "data": {
+        "label": "Support embedding and executing Verilog (IEEE-1364-2005) and Python 3.10 code within a Code Snippet Node.",
+        "impact": 5,
+        "impactInsights": "Language support defines what designs users can express; mandatory to hit target audience.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1718,
+        "y": 2752
+      },
+      "style": {
+        "width": 860,
+        "height": 144
+      },
+      "selected": false,
+      "width": 860,
+      "height": 144
+    },
+    {
+      "id": "codeEditorSyntaxHighlighting",
+      "type": "requirement",
+      "data": {
+        "label": "Provide syntax highlighting, bracket matching, and code folding for Verilog and Python with visual update latency < 100 ms per keystroke.",
+        "impact": 4,
+        "impactInsights": "Improves coding efficiency and reduces errors; expected IDE baseline.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1590,
+        "y": 3096
+      },
+      "style": {
+        "width": 1116,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1116,
+      "height": 144
+    },
+    {
+      "id": "realtimeLinting",
+      "type": "requirement",
+      "data": {
+        "label": "Perform real-time syntax and lint checks on code and surface errors/warnings within 500 ms after user stops typing.",
+        "impact": 4,
+        "impactInsights": "Early error detection saves debug time; competitive IDEs include it.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1678,
+        "y": 3440
+      },
+      "style": {
+        "width": 940,
+        "height": 144
+      },
+      "selected": false,
+      "width": 940,
+      "height": 144
+    },
+    {
+      "id": "automaticPortInference",
+      "type": "requirement",
+      "data": {
+        "label": "Automatically infer I/O ports from the snippet and create corresponding node pins within 1 s after save.",
+        "impact": 4,
+        "impactInsights": "Bridges text and visual worlds, removing manual pin mapping—significant UX win.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1722,
+        "y": 3784
+      },
+      "style": {
+        "width": 852,
+        "height": 144
+      },
+      "selected": false,
+      "width": 852,
+      "height": 144
+    },
+    {
+      "id": "simulationIntegration",
+      "type": "requirement",
+      "data": {
+        "label": "Compile Verilog snippets with Verilator and co-simulate Python test benches via Cocotb, achieving build-plus-run time < 10 s for a 1 k-line design on reference hardware.",
+        "impact": 5,
+        "impactInsights": "Simulation loop is the verification backbone; speed target ensures interactive workflow.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1462,
+        "y": 4128
+      },
+      "style": {
+        "width": 1372,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1372,
+      "height": 144
+    },
+    {
+      "id": "snippetVersioning",
+      "type": "requirement",
+      "data": {
+        "label": "Store every save of a Code Snippet Node in an internal Git repository and allow history view & revert in ≤ 3 clicks.",
+        "impact": 4,
+        "impactInsights": "Protects against code loss and supports experimentation; aligns with software-style workflows.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1674,
+        "y": 4472
+      },
+      "style": {
+        "width": 948,
+        "height": 144
+      },
+      "selected": false,
+      "width": 948,
+      "height": 144
+    },
+    {
+      "id": "reusableSnippetLibrary",
+      "type": "requirement",
+      "data": {
+        "label": "Allow adding a Code Snippet Node to a shared project library that is searchable by name/tags with retrieval time < 2 s.",
+        "impact": 3,
+        "impactInsights": "Nice for collaboration but not vital for initial single-user success.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 20,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1662,
+        "y": 5034
+      },
+      "style": {
+        "width": 972,
+        "height": 144
+      },
+      "selected": false,
+      "width": 972,
+      "height": 144
+    },
+    {
+      "id": "cocotbIntegrationSupport",
+      "type": "requirement",
+      "data": {
+        "label": "Run unmodified Cocotb Python testbenches on assembled designs and report pass/fail within the IDE",
+        "impact": 5,
+        "impactInsights": "Directly matches product description; elevates verification experience and differentiates from pure schematic tools.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 10,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1750,
+        "y": 8130
+      },
+      "style": {
+        "width": 796,
+        "height": 144
+      },
+      "selected": false,
+      "width": 796,
+      "height": 144
+    },
+    {
+      "id": "verilatorSVCompileCoverage",
+      "type": "requirement",
+      "data": {
+        "label": "Compile Verilog/SystemVerilog blocks with Verilator supporting ≥95% of IEEE-1800-2017 features used in the reference suite",
+        "impact": 4,
+        "impactInsights": "High language coverage broadens design applicability; important though slightly less critical than basic compile.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 10,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1650,
+        "y": 8474
+      },
+      "style": {
+        "width": 996,
+        "height": 144
+      },
+      "selected": false,
+      "width": 996,
+      "height": 144
+    },
+    {
+      "id": "simulationPerf10kGate1kCps",
+      "type": "requirement",
+      "data": {
+        "label": "Simulate a 10 k-gate design at ≥1 000 cycles/sec on an 8-core 3 GHz CPU",
+        "impact": 4,
+        "impactInsights": "Usable performance threshold for non-trivial designs; slow sims would negate tool benefits.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 10,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1854,
+        "y": 8892
+      },
+      "style": {
+        "width": 588,
+        "height": 144
+      },
+      "selected": false,
+      "width": 588,
+      "height": 144
+    },
+    {
+      "id": "waveformExportVcdFsdb",
+      "type": "requirement",
+      "data": {
+        "label": "Export full-signal VCD/FSDB waveforms with <1 % runtime overhead",
+        "impact": 4,
+        "impactInsights": "Waveforms are essential for debug; low overhead keeps performance acceptable.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 10,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1882,
+        "y": 9236
+      },
+      "style": {
+        "width": 532,
+        "height": 144
+      },
+      "selected": false,
+      "width": 532,
+      "height": 144
+    },
+    {
+      "id": "uiInteractiveDebugging",
+      "type": "requirement",
+      "data": {
+        "label": "Provide UI breakpoints & single-step debugging for both Cocotb code and Verilator simulation",
+        "impact": 4,
+        "impactInsights": "Integrated debug shortens iteration cycles, raising user satisfaction; not strictly required for first usable build.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 10,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1770,
+        "y": 9580
+      },
+      "style": {
+        "width": 756,
+        "height": 144
+      },
+      "selected": false,
+      "width": 756,
+      "height": 144
+    },
+    {
+      "id": "headlessCiCli",
+      "type": "requirement",
+      "data": {
+        "label": "Offer a CLI to run Cocotb+Verilator simulations headlessly, returning non-zero exit code on failure",
+        "impact": 3,
+        "impactInsights": "Important for automation/CI adoption but core desktop use can function without it.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 10,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1742,
+        "y": 9924
+      },
+      "style": {
+        "width": 812,
+        "height": 144
+      },
+      "selected": false,
+      "width": 812,
+      "height": 144
+    },
+    {
+      "id": "verilogLintExport",
+      "type": "requirement",
+      "data": {
+        "label": "Exported Verilog must pass Verilator and Yosys linting on designs up to 100 k gates without manual edits.",
+        "impact": 4,
+        "impactInsights": "Ensures downstream tool acceptance, preventing costly manual clean-ups.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 22,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1718,
+        "y": 10268
+      },
+      "style": {
+        "width": 860,
+        "height": 144
+      },
+      "selected": false,
+      "width": 860,
+      "height": 144
+    },
+    {
+      "id": "vhdlExportCompliance",
+      "type": "requirement",
+      "data": {
+        "label": "Provide VHDL-2008 export that compiles with GHDL and ModelSim with zero syntax errors.",
+        "impact": 3,
+        "impactInsights": "Expands market to VHDL users, yet not necessary for Verilog-focused MVP.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 22,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1794,
+        "y": 10612
+      },
+      "style": {
+        "width": 708,
+        "height": 144
+      },
+      "selected": false,
+      "width": 708,
+      "height": 144
+    },
+    {
+      "id": "ipxactGeneration",
+      "type": "requirement",
+      "data": {
+        "label": "Generate IP-XACT 1.6 compliant component XML validated against official schema.",
+        "impact": 2,
+        "impactInsights": "Niche integration format; valuable for enterprise flows but low impact for majority of prototyping users.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 22,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1822,
+        "y": 10956
+      },
+      "style": {
+        "width": 652,
+        "height": 144
+      },
+      "selected": false,
+      "width": 652,
+      "height": 144
+    },
+    {
+      "id": "vivadoProjectExport",
+      "type": "requirement",
+      "data": {
+        "label": "Produce a build-ready Xilinx Vivado project (.xpr) that synthesizes to bitstream in one click.",
+        "impact": 4,
+        "impactInsights": "Key for FPGA deployment which is a primary hardware target; high value.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 22,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1762,
+        "y": 11300
+      },
+      "style": {
+        "width": 772,
+        "height": 144
+      },
+      "selected": false,
+      "width": 772,
+      "height": 144
+    },
+    {
+      "id": "quartusProjectExport",
+      "type": "requirement",
+      "data": {
+        "label": "Produce an Intel Quartus Prime project (.qpf/.qsf) that compiles to SRAM bitstream with default settings.",
+        "impact": 3,
+        "impactInsights": "Adds vendor breadth; nice but less critical if Vivado supported first.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 22,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1718,
+        "y": 11644
+      },
+      "style": {
+        "width": 860,
+        "height": 144
+      },
+      "selected": false,
+      "width": 860,
+      "height": 144
+    },
+    {
+      "id": "synopsysDCScriptExport",
+      "type": "requirement",
+      "data": {
+        "label": "Generate Synopsys Design Compiler TCL script enabling gate-level netlist generation with zero manual edits.",
+        "impact": 2,
+        "impactInsights": "Applies to ASIC flows; useful for small subset of users, not central to desktop prototyping vision.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 22,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1710,
+        "y": 11988
+      },
+      "style": {
+        "width": 876,
+        "height": 144
+      },
+      "selected": false,
+      "width": 876,
+      "height": 144
+    },
+    {
+      "id": "cocotbTestbenchExport",
+      "type": "requirement",
+      "data": {
+        "label": "Auto-generate Cocotb Python testbench skeleton covering all top-level I/Os with ready Makefile.",
+        "impact": 3,
+        "impactInsights": "Speeds verification kick-off but users could write tests manually.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 22,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1758,
+        "y": 12332
+      },
+      "style": {
+        "width": 780,
+        "height": 144
+      },
+      "selected": false,
+      "width": 780,
+      "height": 144
+    },
+    {
+      "id": "makefileExport",
+      "type": "requirement",
+      "data": {
+        "label": "Create portable GNU Makefile for open-source Verilator simulation completing build in < 2 min for 50 k gate design.",
+        "impact": 3,
+        "impactInsights": "Aids automation yet overlaps with in-IDE run; moderate impact.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 22,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1678,
+        "y": 12676
+      },
+      "style": {
+        "width": 940,
+        "height": 144
+      },
+      "selected": false,
+      "width": 940,
+      "height": 144
+    },
+    {
+      "id": "dockerCIExport",
+      "type": "requirement",
+      "data": {
+        "label": "Export Dockerfile containing toolchain dependencies to run synthesis & simulation in CI within ≤ 10 min.",
+        "impact": 2,
+        "impactInsights": "Good for DevOps; peripheral to core desktop editing experience.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 22,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1722,
+        "y": 13020
+      },
+      "style": {
+        "width": 852,
+        "height": 144
+      },
+      "selected": false,
+      "width": 852,
+      "height": 144
+    },
+    {
+      "id": "rtlCoverageReportExport",
+      "type": "requirement",
+      "data": {
+        "label": "Provide LCOV/HTML code-coverage report generation for simulated RTL with ≥ 95 % statement coverage threshold.",
+        "impact": 3,
+        "impactInsights": "Improves quality metrics but advanced users can integrate external tools.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 22,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1702,
+        "y": 13364
+      },
+      "style": {
+        "width": 892,
+        "height": 144
+      },
+      "selected": false,
+      "width": 892,
+      "height": 144
+    },
+    {
+      "id": "pluginApiVersioning",
+      "type": "requirement",
+      "data": {
+        "label": "Stable, SemVer-based Plugin API v1.0 with 18-month backward-compatibility window and automated regression tests across two minor releases.",
+        "impact": 2,
+        "impactInsights": "Extensibility matters long-term; not essential for initial product viability.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 19,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1586,
+        "y": 16460
+      },
+      "style": {
+        "width": 1124,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1124,
+      "height": 144
+    },
+    {
+      "id": "sandboxedPluginExecution",
+      "type": "requirement",
+      "data": {
+        "label": "Plugins must run in isolated WebWorker/Node-VM sandbox, blocking file-system or network access outside project scope and passing OWASP Top-10 security scans.",
+        "impact": 2,
+        "impactInsights": "Security for plugins is important but only after a plugin ecosystem exists.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 19,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1510,
+        "y": 16804
+      },
+      "style": {
+        "width": 1276,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1276,
+      "height": 144
+    },
+    {
+      "id": "runtimePluginLoading",
+      "type": "requirement",
+      "data": {
+        "label": "Install, enable, disable, or uninstall any plugin without application restart; load time <2 s for a 5 MB plugin on reference laptop.",
+        "impact": 2,
+        "impactInsights": "Convenience for plugin users; secondary to main design/sim features.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 19,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1610,
+        "y": 17148
+      },
+      "style": {
+        "width": 1076,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1076,
+      "height": 144
+    },
+    {
+      "id": "pluginSdkDocumentation",
+      "type": "requirement",
+      "data": {
+        "label": "Provide fully-typed TypeScript/Python SDK, template repo, and step-by-step docs enabling a new developer to publish a ‘Hello-World’ plugin in ≤30 minutes (usability study n=10).",
+        "impact": 2,
+        "impactInsights": "Developer onboarding drives ecosystem growth but not pivotal to core user flow initially.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 19,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1430,
+        "y": 17492
+      },
+      "style": {
+        "width": 1436,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1436,
+      "height": 144
+    },
+    {
+      "id": "pluginMarketplaceUI",
+      "type": "requirement",
+      "data": {
+        "label": "Built-in marketplace UI supporting search (<300 ms over 1 000 entries), ratings, and one-click install/update workflows.",
+        "impact": 2,
+        "impactInsights": "Helps discovery of plugins; useful after plugin base exists.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 19,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1658,
+        "y": 17836
+      },
+      "style": {
+        "width": 980,
+        "height": 144
+      },
+      "selected": false,
+      "width": 980,
+      "height": 144
+    },
+    {
+      "id": "pluginCompatibilityCITesting",
+      "type": "requirement",
+      "data": {
+        "label": "Offer CLI & GitHub Action that runs Verilator+Cocotb regression on each plugin; ≥95 % of registry plugins must pass nightly CI.",
+        "impact": 2,
+        "impactInsights": "Quality gate for plugins; advanced ecosystem feature.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 19,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1630,
+        "y": 18180
+      },
+      "style": {
+        "width": 1036,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1036,
+      "height": 144
+    },
+    {
+      "id": "licensingComplianceChecker",
+      "type": "requirement",
+      "data": {
+        "label": "Automated SPDX license scanner warns when plugin license conflicts with MIT/GPL core; ≥95 % detection accuracy on curated 200-plugin corpus.",
+        "impact": 1,
+        "impactInsights": "Legal safeguard; low impact on daily design/sim workflow.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 19,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1578,
+        "y": 18524
+      },
+      "style": {
+        "width": 1140,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1140,
+      "height": 144
+    },
+    {
+      "id": "versionControlledRepository",
+      "type": "requirement",
+      "data": {
+        "label": "Support saving & retrieving designs to a Git-compatible cloud repository with full commit history and branch / pull-request workflow.",
+        "impact": 4,
+        "impactInsights": "Team collaboration and history are crucial for serious projects; aligns with software expectations.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 11,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1606,
+        "y": 13708
+      },
+      "style": {
+        "width": 1084,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1084,
+      "height": 144
+    },
+    {
+      "id": "granularAccessPermissions",
+      "type": "requirement",
+      "data": {
+        "label": "Provide role-based read, write, and admin permissions per project, enforceable via UI and API, with changes propagated within 5 s.",
+        "impact": 3,
+        "impactInsights": "Important for enterprise/team scenarios but not for solo users.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 11,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1618,
+        "y": 14052
+      },
+      "style": {
+        "width": 1060,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1060,
+      "height": 144
+    },
+    {
+      "id": "searchableIpLibrary",
+      "type": "requirement",
+      "data": {
+        "label": "Index all IP blocks with metadata (name, language, IO spec, license, tags) and return search results in <200 ms for 90 % of queries.",
+        "impact": 3,
+        "impactInsights": "Extends reuse across projects; helpful yet secondary to core block library.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 11,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1610,
+        "y": 14396
+      },
+      "style": {
+        "width": 1076,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1076,
+      "height": 144
+    },
+    {
+      "id": "publishIpBlocks",
+      "type": "requirement",
+      "data": {
+        "label": "Allow users to publish selected IP blocks to public or private libraries with explicit license selection and visibility settings.",
+        "impact": 3,
+        "impactInsights": "Drives community sharing; good for network effects, not core for initial product.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 11,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1622,
+        "y": 14740
+      },
+      "style": {
+        "width": 1052,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1052,
+      "height": 144
+    },
+    {
+      "id": "realTimeCommenting",
+      "type": "requirement",
+      "data": {
+        "label": "Enable multi-user commenting and node annotations that synchronize across clients with <1 s latency.",
+        "impact": 2,
+        "impactInsights": "Collaboration nicety; tool remains valuable without it.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 11,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1738,
+        "y": 15084
+      },
+      "style": {
+        "width": 820,
+        "height": 144
+      },
+      "selected": false,
+      "width": 820,
+      "height": 144
+    },
+    {
+      "id": "visualMergeConflictResolution",
+      "type": "requirement",
+      "data": {
+        "label": "Detect concurrent edit conflicts and present a visual diff/merge tool that resolves and saves merged design within 2 min.",
+        "impact": 3,
+        "impactInsights": "Critical for multi-user editing but not required for single-user adoption.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 11,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1654,
+        "y": 15428
+      },
+      "style": {
+        "width": 988,
+        "height": 144
+      },
+      "selected": false,
+      "width": 988,
+      "height": 144
+    },
+    {
+      "id": "ipAttributionReport",
+      "type": "requirement",
+      "data": {
+        "label": "Automatically generate an HTML/PDF report listing all imported IP blocks, versions, authors, and licenses on demand in <10 s.",
+        "impact": 1,
+        "impactInsights": "Compliance/reporting utility; marginal to core workflow.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 11,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1638,
+        "y": 15772
+      },
+      "style": {
+        "width": 1020,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1020,
+      "height": 144
+    },
+    {
+      "id": "pinnedIpVersionSimulation",
+      "type": "requirement",
+      "data": {
+        "label": "Lock each referenced IP block to a specific semantic version and guarantee simulations reproduce identical results regardless of later library updates.",
+        "impact": 3,
+        "impactInsights": "Reproducibility is important especially for CI; moderate impact.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 11,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1534,
+        "y": 16116
+      },
+      "style": {
+        "width": 1228,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1228,
+      "height": 144
+    },
+    {
+      "id": "guidedWalkthroughHighlight",
+      "type": "requirement",
+      "data": {
+        "label": "Provide a guided walkthrough mode that highlights relevant UI elements and nodes with instructional overlays for each tutorial step",
+        "impact": 2,
+        "impactInsights": "Onboarding aid; improves learning curve but not functionality.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 4,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1614,
+        "y": 18868
+      },
+      "style": {
+        "width": 1068,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1068,
+      "height": 144
+    },
+    {
+      "id": "builtInTutorialLibrary",
+      "type": "requirement",
+      "data": {
+        "label": "Include at least 20 built-in tutorial lessons covering basic gates through pipelined processors, accessible from a Tutorials library panel",
+        "impact": 3,
+        "impactInsights": "Education drives adoption, especially for new users/students; valuable though not functional necessity.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 4,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1586,
+        "y": 19212
+      },
+      "style": {
+        "width": 1124,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1124,
+      "height": 144
+    },
+    {
+      "id": "persistentProgressTracking",
+      "type": "requirement",
+      "data": {
+        "label": "Persist per-user tutorial progress (Not Started / In-Progress / Completed) across sessions using local storage or cloud sync",
+        "impact": 2,
+        "impactInsights": "Nice UX detail for learning; low effect on design capabilities.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 4,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1642,
+        "y": 19556
+      },
+      "style": {
+        "width": 1012,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1012,
+      "height": 144
+    },
+    {
+      "id": "autoSimulationFeedback",
+      "type": "requirement",
+      "data": {
+        "label": "Automatically run simulation after each tutorial step and display results within 2 seconds for designs up to 500 logic elements",
+        "impact": 3,
+        "impactInsights": "Reinforces learning and showcases core sim loop; moderate impact.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 4,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1630,
+        "y": 19900
+      },
+      "style": {
+        "width": 1036,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1036,
+      "height": 144
+    },
+    {
+      "id": "inlineCodeChallengeValidation",
+      "type": "requirement",
+      "data": {
+        "label": "Embed code challenge checkpoints that execute user-entered Verilog or Python snippets and return pass/fail feedback within 3 seconds",
+        "impact": 2,
+        "impactInsights": "Gamified learning element; useful for tutorials, not core tooling.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 4,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1610,
+        "y": 20244
+      },
+      "style": {
+        "width": 1076,
+        "height": 144
+      },
+      "selected": false,
+      "width": 1076,
+      "height": 144
+    },
+    {
+      "id": "contextSensitiveHintSystem",
+      "type": "requirement",
+      "data": {
+        "label": "Offer on-demand context-sensitive hints for each tutorial step, revealed in no more than 3 clicks and logged for analytics",
+        "impact": 2,
+        "impactInsights": "Further tutorial polish; limited impact on main feature set.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 4,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1650,
+        "y": 20588
+      },
+      "style": {
+        "width": 996,
+        "height": 144
+      },
+      "selected": false,
+      "width": 996,
+      "height": 144
+    },
+    {
+      "id": "tutorialWorkspaceResetUndo",
+      "type": "requirement",
+      "data": {
+        "label": "Allow users to reset the tutorial workspace to its initial state in one click and undo the last 20 actions",
+        "impact": 2,
+        "impactInsights": "Quality-of-life for training; small scope relative to product’s primary value.",
+        "startDate": "",
+        "dueDate": "",
+        "collapsed": false,
+        "weight": 4,
+        "maxWeight": 24,
+        "editing": false
+      },
+      "position": {
+        "x": 1714,
+        "y": 20932
+      },
+      "style": {
+        "width": 868,
+        "height": 144
+      },
+      "selected": false,
+      "width": 868,
+      "height": 144
+    },
+    {
+      "id": "roadmapMVPQ12025",
+      "type": "roadmap",
+      "data": {
+        "label": "V1 - MVP",
+        "collapsed": false,
+        "editing": false
+      },
+      "position": {
+        "x": 912,
+        "y": 2738
+      },
+      "style": {
+        "width": 172,
+        "height": 36
+      },
+      "width": 172,
+      "height": 36,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 108,
+        "y": -5.059303590859631
+      },
+      "dragging": false
+    },
+    {
+      "id": "roadmapPerformanceQ22025",
+      "type": "roadmap",
+      "data": {
+        "label": "V2 - Performance & Scalability Improvements",
+        "collapsed": false,
+        "editing": false
+      },
+      "position": {
+        "x": 816,
+        "y": 6538
+      },
+      "style": {
+        "width": 388,
+        "height": 36
+      },
+      "width": 388,
+      "height": 36,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 0,
+        "y": 234.67315485940284
+      },
+      "dragging": false
+    },
+    {
+      "id": "roadmapExportToolingQ32025",
+      "type": "roadmap",
+      "data": {
+        "label": "V3 - Production-Ready Export Tooling",
+        "collapsed": false,
+        "editing": false
+      },
+      "position": {
+        "x": 844,
+        "y": 10276
+      },
+      "style": {
+        "width": 332,
+        "height": 36
+      },
+      "width": 332,
+      "height": 36,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 28,
+        "y": 471.33657742970144
+      },
+      "dragging": false
+    },
+    {
+      "id": "roadmapPluginsMarketplaceQ42025",
+      "type": "roadmap",
+      "data": {
+        "label": "V4 - Plugin Ecosystem & Marketplace",
+        "collapsed": false,
+        "editing": false
+      },
+      "position": {
+        "x": 848,
+        "y": 17708
+      },
+      "style": {
+        "width": 324,
+        "height": 36
+      },
+      "width": 324,
+      "height": 36,
+      "selected": false
+    },
+    {
+      "id": "roadmapCollaborationTutorialsQ12026",
+      "type": "roadmap",
+      "data": {
+        "label": "V5 - Collaboration & Tutorials Expansion",
+        "collapsed": false,
+        "editing": false
+      },
+      "position": {
+        "x": 828,
+        "y": 15816
+      },
+      "style": {
+        "width": 364,
+        "height": 36
+      },
+      "width": 364,
+      "height": 36,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 12,
+        "y": 943.2358117396175
+      },
+      "dragging": false
+    },
+    {
+      "id": "roadmap_1VkqwcOIu3",
+      "type": "roadmap",
+      "position": {
+        "x": 912,
+        "y": 5560
+      },
+      "data": {
+        "label": "V6 - Improvements",
+        "collapsed": false
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_hardwareEngineers_rapidPrototyping",
+      "source": "hardwareEngineers",
+      "target": "rapidPrototyping",
+      "selected": false
+    },
+    {
+      "id": "e_hardwareEngineers_visualCodeWorkflow",
+      "source": "hardwareEngineers",
+      "target": "visualCodeWorkflow",
+      "selected": false
+    },
+    {
+      "id": "e_hardwareEngineers_fastVerification",
+      "source": "hardwareEngineers",
+      "target": "fastVerification",
+      "selected": false
+    },
+    {
+      "id": "e_hardwareEngineers_interoperability",
+      "source": "hardwareEngineers",
+      "target": "interoperability",
+      "selected": false
+    },
+    {
+      "id": "e_hardwareEngineers_collaborationReuse",
+      "source": "hardwareEngineers",
+      "target": "collaborationReuse",
+      "selected": false
+    },
+    {
+      "id": "e_fpgaDesigners_rapidPrototyping",
+      "source": "fpgaDesigners",
+      "target": "rapidPrototyping",
+      "selected": false
+    },
+    {
+      "id": "e_fpgaDesigners_visualCodeWorkflow",
+      "source": "fpgaDesigners",
+      "target": "visualCodeWorkflow",
+      "selected": false
+    },
+    {
+      "id": "e_fpgaDesigners_fastVerification",
+      "source": "fpgaDesigners",
+      "target": "fastVerification",
+      "selected": false
+    },
+    {
+      "id": "e_fpgaDesigners_interoperability",
+      "source": "fpgaDesigners",
+      "target": "interoperability",
+      "selected": false
+    },
+    {
+      "id": "e_fpgaDesigners_collaborationReuse",
+      "source": "fpgaDesigners",
+      "target": "collaborationReuse",
+      "selected": false
+    },
+    {
+      "id": "e_fpgaDesigners_timeToMarket",
+      "source": "fpgaDesigners",
+      "target": "timeToMarket",
+      "selected": false
+    },
+    {
+      "id": "e_asicDesigners_rapidPrototyping",
+      "source": "asicDesigners",
+      "target": "rapidPrototyping",
+      "selected": false
+    },
+    {
+      "id": "e_asicDesigners_fastVerification",
+      "source": "asicDesigners",
+      "target": "fastVerification",
+      "selected": false
+    },
+    {
+      "id": "e_asicDesigners_interoperability",
+      "source": "asicDesigners",
+      "target": "interoperability",
+      "selected": false
+    },
+    {
+      "id": "e_asicDesigners_collaborationReuse",
+      "source": "asicDesigners",
+      "target": "collaborationReuse",
+      "selected": false
+    },
+    {
+      "id": "e_asicDesigners_timeToMarket",
+      "source": "asicDesigners",
+      "target": "timeToMarket",
+      "selected": false
+    },
+    {
+      "id": "e_embeddedDevelopers_rapidPrototyping",
+      "source": "embeddedDevelopers",
+      "target": "rapidPrototyping",
+      "selected": false
+    },
+    {
+      "id": "e_embeddedDevelopers_visualCodeWorkflow",
+      "source": "embeddedDevelopers",
+      "target": "visualCodeWorkflow",
+      "selected": false
+    },
+    {
+      "id": "e_embeddedDevelopers_fastVerification",
+      "source": "embeddedDevelopers",
+      "target": "fastVerification",
+      "selected": false
+    },
+    {
+      "id": "e_embeddedDevelopers_costEffectiveOpenSource",
+      "source": "embeddedDevelopers",
+      "target": "costEffectiveOpenSource",
+      "selected": false
+    },
+    {
+      "id": "e_embeddedDevelopers_interoperability",
+      "source": "embeddedDevelopers",
+      "target": "interoperability",
+      "selected": false
+    },
+    {
+      "id": "e_embeddedDevelopers_timeToMarket",
+      "source": "embeddedDevelopers",
+      "target": "timeToMarket",
+      "selected": false
+    },
+    {
+      "id": "e_verificationEngineers_fastVerification",
+      "source": "verificationEngineers",
+      "target": "fastVerification",
+      "selected": false
+    },
+    {
+      "id": "e_verificationEngineers_interoperability",
+      "source": "verificationEngineers",
+      "target": "interoperability",
+      "selected": false
+    },
+    {
+      "id": "e_verificationEngineers_collaborationReuse",
+      "source": "verificationEngineers",
+      "target": "collaborationReuse",
+      "selected": false
+    },
+    {
+      "id": "e_verificationEngineers_timeToMarket",
+      "source": "verificationEngineers",
+      "target": "timeToMarket",
+      "selected": false
+    },
+    {
+      "id": "e_researchScientists_rapidPrototyping",
+      "source": "researchScientists",
+      "target": "rapidPrototyping",
+      "selected": false
+    },
+    {
+      "id": "e_researchScientists_visualCodeWorkflow",
+      "source": "researchScientists",
+      "target": "visualCodeWorkflow",
+      "selected": false
+    },
+    {
+      "id": "e_researchScientists_educationTraining",
+      "source": "researchScientists",
+      "target": "educationTraining",
+      "selected": false
+    },
+    {
+      "id": "e_researchScientists_costEffectiveOpenSource",
+      "source": "researchScientists",
+      "target": "costEffectiveOpenSource",
+      "selected": false
+    },
+    {
+      "id": "e_researchScientists_collaborationReuse",
+      "source": "researchScientists",
+      "target": "collaborationReuse",
+      "selected": false
+    },
+    {
+      "id": "e_engineeringStudents_educationTraining",
+      "source": "engineeringStudents",
+      "target": "educationTraining",
+      "selected": false
+    },
+    {
+      "id": "e_engineeringStudents_costEffectiveOpenSource",
+      "source": "engineeringStudents",
+      "target": "costEffectiveOpenSource",
+      "selected": false
+    },
+    {
+      "id": "e_engineeringStudents_visualCodeWorkflow",
+      "source": "engineeringStudents",
+      "target": "visualCodeWorkflow",
+      "selected": false
+    },
+    {
+      "id": "e_openSourceCommunity_costEffectiveOpenSource",
+      "source": "openSourceCommunity",
+      "target": "costEffectiveOpenSource",
+      "selected": false
+    },
+    {
+      "id": "e_openSourceCommunity_collaborationReuse",
+      "source": "openSourceCommunity",
+      "target": "collaborationReuse",
+      "selected": false
+    },
+    {
+      "id": "e_productManagers_timeToMarket",
+      "source": "productManagers",
+      "target": "timeToMarket",
+      "selected": false
+    },
+    {
+      "id": "e_productManagers_interoperability",
+      "source": "productManagers",
+      "target": "interoperability",
+      "selected": false
+    },
+    {
+      "id": "e_productManagers_costEffectiveOpenSource",
+      "source": "productManagers",
+      "target": "costEffectiveOpenSource",
+      "selected": false
+    },
+    {
+      "id": "e_productManagers_rapidPrototyping",
+      "source": "productManagers",
+      "target": "rapidPrototyping",
+      "selected": false
+    },
+    {
+      "id": "e_productManagers_fastVerification",
+      "source": "productManagers",
+      "target": "fastVerification",
+      "selected": false
+    },
+    {
+      "id": "e_edaVendors_interoperability",
+      "source": "edaVendors",
+      "target": "interoperability",
+      "selected": false
+    },
+    {
+      "id": "e_edaVendors_collaborationReuse",
+      "source": "edaVendors",
+      "target": "collaborationReuse",
+      "selected": false
+    },
+    {
+      "id": "e_systemArchitects_rapidPrototyping",
+      "source": "systemArchitects",
+      "target": "rapidPrototyping",
+      "selected": false
+    },
+    {
+      "id": "e_systemArchitects_visualCodeWorkflow",
+      "source": "systemArchitects",
+      "target": "visualCodeWorkflow",
+      "selected": false
+    },
+    {
+      "id": "e_systemArchitects_interoperability",
+      "source": "systemArchitects",
+      "target": "interoperability",
+      "selected": false
+    },
+    {
+      "id": "e_systemArchitects_timeToMarket",
+      "source": "systemArchitects",
+      "target": "timeToMarket",
+      "selected": false
+    },
+    {
+      "id": "e_hobbyistsMakers_costEffectiveOpenSource",
+      "source": "hobbyistsMakers",
+      "target": "costEffectiveOpenSource",
+      "selected": false
+    },
+    {
+      "id": "e_hobbyistsMakers_educationTraining",
+      "source": "hobbyistsMakers",
+      "target": "educationTraining",
+      "selected": false
+    },
+    {
+      "id": "e_hobbyistsMakers_visualCodeWorkflow",
+      "source": "hobbyistsMakers",
+      "target": "visualCodeWorkflow",
+      "selected": false
+    },
+    {
+      "id": "e_hobbyistsMakers_rapidPrototyping",
+      "source": "hobbyistsMakers",
+      "target": "rapidPrototyping",
+      "selected": false
+    },
+    {
+      "id": "e_itAdministrators_costEffectiveOpenSource",
+      "source": "itAdministrators",
+      "target": "costEffectiveOpenSource",
+      "selected": false
+    },
+    {
+      "id": "e_itAdministrators_interoperability",
+      "source": "itAdministrators",
+      "target": "interoperability",
+      "selected": false
+    },
+    {
+      "id": "e_qualityAssurance_fastVerification",
+      "source": "qualityAssurance",
+      "target": "fastVerification",
+      "selected": false
+    },
+    {
+      "id": "e_qualityAssurance_collaborationReuse",
+      "source": "qualityAssurance",
+      "target": "collaborationReuse",
+      "selected": false
+    },
+    {
+      "id": "e_qualityAssurance_timeToMarket",
+      "source": "qualityAssurance",
+      "target": "timeToMarket",
+      "selected": false
+    },
+    {
+      "id": "e_educatorsInstructors_educationTraining",
+      "source": "educatorsInstructors",
+      "target": "educationTraining",
+      "selected": false
+    },
+    {
+      "id": "e_educatorsInstructors_costEffectiveOpenSource",
+      "source": "educatorsInstructors",
+      "target": "costEffectiveOpenSource",
+      "selected": false
+    },
+    {
+      "id": "e_educatorsInstructors_visualCodeWorkflow",
+      "source": "educatorsInstructors",
+      "target": "visualCodeWorkflow",
+      "selected": false
+    },
+    {
+      "id": "e_rapidPrototyping_visualBlockEditor",
+      "source": "rapidPrototyping",
+      "target": "visualBlockEditor",
+      "selected": false
+    },
+    {
+      "id": "e_rapidPrototyping_codeSnippetNodes",
+      "source": "rapidPrototyping",
+      "target": "codeSnippetNodes",
+      "selected": false
+    },
+    {
+      "id": "e_rapidPrototyping_prototypeTemplates",
+      "source": "rapidPrototyping",
+      "target": "prototypeTemplates",
+      "selected": false
+    },
+    {
+      "id": "e_visualCodeWorkflow_visualBlockEditor",
+      "source": "visualCodeWorkflow",
+      "target": "visualBlockEditor",
+      "selected": false
+    },
+    {
+      "id": "e_visualCodeWorkflow_codeSnippetNodes",
+      "source": "visualCodeWorkflow",
+      "target": "codeSnippetNodes",
+      "selected": false
+    },
+    {
+      "id": "e_fastVerification_integratedCocotbVerilatorSim",
+      "source": "fastVerification",
+      "target": "integratedCocotbVerilatorSim",
+      "selected": false
+    },
+    {
+      "id": "e_costEffectiveOpenSource_openSourcePluginArch",
+      "source": "costEffectiveOpenSource",
+      "target": "openSourcePluginArch",
+      "selected": false
+    },
+    {
+      "id": "e_educationTraining_interactiveTutorialMode",
+      "source": "educationTraining",
+      "target": "interactiveTutorialMode",
+      "selected": false
+    },
+    {
+      "id": "e_educationTraining_prototypeTemplates",
+      "source": "educationTraining",
+      "target": "prototypeTemplates",
+      "selected": false
+    },
+    {
+      "id": "e_interoperability_multiToolchainExport",
+      "source": "interoperability",
+      "target": "multiToolchainExport",
+      "selected": false
+    },
+    {
+      "id": "e_collaborationReuse_collaborativeDesignSharing",
+      "source": "collaborationReuse",
+      "target": "collaborativeDesignSharing",
+      "selected": false
+    },
+    {
+      "id": "e_collaborationReuse_openSourcePluginArch",
+      "source": "collaborationReuse",
+      "target": "openSourcePluginArch",
+      "selected": false
+    },
+    {
+      "id": "e_timeToMarket_prototypeTemplates",
+      "source": "timeToMarket",
+      "target": "prototypeTemplates",
+      "selected": false
+    },
+    {
+      "id": "e_timeToMarket_multiToolchainExport",
+      "source": "timeToMarket",
+      "target": "multiToolchainExport",
+      "selected": false
+    },
+    {
+      "id": "e_prototypeTemplates_templateLibrary50Blocks",
+      "source": "prototypeTemplates",
+      "target": "templateLibrary50Blocks",
+      "selected": false
+    },
+    {
+      "id": "e_prototypeTemplates_templateDualRepresentationSync",
+      "source": "prototypeTemplates",
+      "target": "templateDualRepresentationSync",
+      "selected": false
+    },
+    {
+      "id": "e_prototypeTemplates_templateHighCoverageTests",
+      "source": "prototypeTemplates",
+      "target": "templateHighCoverageTests",
+      "selected": false
+    },
+    {
+      "id": "e_prototypeTemplates_templateSemanticVersioning",
+      "source": "prototypeTemplates",
+      "target": "templateSemanticVersioning",
+      "selected": false
+    },
+    {
+      "id": "e_prototypeTemplates_templateSearchFilterSub100ms",
+      "source": "prototypeTemplates",
+      "target": "templateSearchFilterSub100ms",
+      "selected": false
+    },
+    {
+      "id": "e_prototypeTemplates_templateUserCloneSave",
+      "source": "prototypeTemplates",
+      "target": "templateUserCloneSave",
+      "selected": false
+    },
+    {
+      "id": "e_prototypeTemplates_templateAutoDocumentation",
+      "source": "prototypeTemplates",
+      "target": "templateAutoDocumentation",
+      "selected": false
+    },
+    {
+      "id": "e_prototypeTemplates_templateFpgaSynthesisPass",
+      "source": "prototypeTemplates",
+      "target": "templateFpgaSynthesisPass",
+      "selected": false
+    },
+    {
+      "id": "e_visualBlockEditor_dragDropSnapGrid",
+      "source": "visualBlockEditor",
+      "target": "dragDropSnapGrid",
+      "selected": false
+    },
+    {
+      "id": "e_visualBlockEditor_searchableBlockLibrary",
+      "source": "visualBlockEditor",
+      "target": "searchableBlockLibrary",
+      "selected": false
+    },
+    {
+      "id": "e_visualBlockEditor_codeSnippetNodeSupport",
+      "source": "visualBlockEditor",
+      "target": "codeSnippetNodeSupport",
+      "selected": false
+    },
+    {
+      "id": "e_visualBlockEditor_realTimeConnectionValidation",
+      "source": "visualBlockEditor",
+      "target": "realTimeConnectionValidation",
+      "selected": false
+    },
+    {
+      "id": "e_visualBlockEditor_gitVersionControlExport",
+      "source": "visualBlockEditor",
+      "target": "gitVersionControlExport",
+      "selected": false
+    },
+    {
+      "id": "e_visualBlockEditor_verilogNetlistExport",
+      "source": "visualBlockEditor",
+      "target": "verilogNetlistExport",
+      "selected": false
+    },
+    {
+      "id": "e_visualBlockEditor_undoRedoHistory",
+      "source": "visualBlockEditor",
+      "target": "undoRedoHistory",
+      "selected": false
+    },
+    {
+      "id": "e_visualBlockEditor_performanceZoomPan1000Nodes",
+      "source": "visualBlockEditor",
+      "target": "performanceZoomPan1000Nodes",
+      "selected": false
+    },
+    {
+      "id": "e_codeSnippetNodes_codeSnippetLanguageSupport",
+      "source": "codeSnippetNodes",
+      "target": "codeSnippetLanguageSupport",
+      "selected": false
+    },
+    {
+      "id": "e_codeSnippetNodes_codeEditorSyntaxHighlighting",
+      "source": "codeSnippetNodes",
+      "target": "codeEditorSyntaxHighlighting",
+      "selected": false
+    },
+    {
+      "id": "e_codeSnippetNodes_realtimeLinting",
+      "source": "codeSnippetNodes",
+      "target": "realtimeLinting",
+      "selected": false
+    },
+    {
+      "id": "e_codeSnippetNodes_automaticPortInference",
+      "source": "codeSnippetNodes",
+      "target": "automaticPortInference",
+      "selected": false
+    },
+    {
+      "id": "e_codeSnippetNodes_simulationIntegration",
+      "source": "codeSnippetNodes",
+      "target": "simulationIntegration",
+      "selected": false
+    },
+    {
+      "id": "e_codeSnippetNodes_snippetVersioning",
+      "source": "codeSnippetNodes",
+      "target": "snippetVersioning",
+      "selected": false
+    },
+    {
+      "id": "e_codeSnippetNodes_reusableSnippetLibrary",
+      "source": "codeSnippetNodes",
+      "target": "reusableSnippetLibrary",
+      "selected": false
+    },
+    {
+      "id": "e_integratedCocotbVerilatorSim_cocotbIntegrationSupport",
+      "source": "integratedCocotbVerilatorSim",
+      "target": "cocotbIntegrationSupport",
+      "selected": false
+    },
+    {
+      "id": "e_integratedCocotbVerilatorSim_verilatorSVCompileCoverage",
+      "source": "integratedCocotbVerilatorSim",
+      "target": "verilatorSVCompileCoverage",
+      "selected": false
+    },
+    {
+      "id": "e_integratedCocotbVerilatorSim_simulationPerf10kGate1kCps",
+      "source": "integratedCocotbVerilatorSim",
+      "target": "simulationPerf10kGate1kCps",
+      "selected": false
+    },
+    {
+      "id": "e_integratedCocotbVerilatorSim_waveformExportVcdFsdb",
+      "source": "integratedCocotbVerilatorSim",
+      "target": "waveformExportVcdFsdb",
+      "selected": false
+    },
+    {
+      "id": "e_integratedCocotbVerilatorSim_uiInteractiveDebugging",
+      "source": "integratedCocotbVerilatorSim",
+      "target": "uiInteractiveDebugging",
+      "selected": false
+    },
+    {
+      "id": "e_integratedCocotbVerilatorSim_headlessCiCli",
+      "source": "integratedCocotbVerilatorSim",
+      "target": "headlessCiCli",
+      "selected": false
+    },
+    {
+      "id": "e_multiToolchainExport_verilogLintExport",
+      "source": "multiToolchainExport",
+      "target": "verilogLintExport",
+      "selected": false
+    },
+    {
+      "id": "e_multiToolchainExport_vhdlExportCompliance",
+      "source": "multiToolchainExport",
+      "target": "vhdlExportCompliance",
+      "selected": false
+    },
+    {
+      "id": "e_multiToolchainExport_ipxactGeneration",
+      "source": "multiToolchainExport",
+      "target": "ipxactGeneration",
+      "selected": false
+    },
+    {
+      "id": "e_multiToolchainExport_vivadoProjectExport",
+      "source": "multiToolchainExport",
+      "target": "vivadoProjectExport",
+      "selected": false
+    },
+    {
+      "id": "e_multiToolchainExport_quartusProjectExport",
+      "source": "multiToolchainExport",
+      "target": "quartusProjectExport",
+      "selected": false
+    },
+    {
+      "id": "e_multiToolchainExport_synopsysDCScriptExport",
+      "source": "multiToolchainExport",
+      "target": "synopsysDCScriptExport",
+      "selected": false
+    },
+    {
+      "id": "e_multiToolchainExport_cocotbTestbenchExport",
+      "source": "multiToolchainExport",
+      "target": "cocotbTestbenchExport",
+      "selected": false
+    },
+    {
+      "id": "e_multiToolchainExport_makefileExport",
+      "source": "multiToolchainExport",
+      "target": "makefileExport",
+      "selected": false
+    },
+    {
+      "id": "e_multiToolchainExport_dockerCIExport",
+      "source": "multiToolchainExport",
+      "target": "dockerCIExport",
+      "selected": false
+    },
+    {
+      "id": "e_multiToolchainExport_rtlCoverageReportExport",
+      "source": "multiToolchainExport",
+      "target": "rtlCoverageReportExport",
+      "selected": false
+    },
+    {
+      "id": "e_openSourcePluginArch_pluginApiVersioning",
+      "source": "openSourcePluginArch",
+      "target": "pluginApiVersioning",
+      "selected": false
+    },
+    {
+      "id": "e_openSourcePluginArch_sandboxedPluginExecution",
+      "source": "openSourcePluginArch",
+      "target": "sandboxedPluginExecution",
+      "selected": false
+    },
+    {
+      "id": "e_openSourcePluginArch_runtimePluginLoading",
+      "source": "openSourcePluginArch",
+      "target": "runtimePluginLoading",
+      "selected": false
+    },
+    {
+      "id": "e_openSourcePluginArch_pluginSdkDocumentation",
+      "source": "openSourcePluginArch",
+      "target": "pluginSdkDocumentation",
+      "selected": false
+    },
+    {
+      "id": "e_openSourcePluginArch_pluginMarketplaceUI",
+      "source": "openSourcePluginArch",
+      "target": "pluginMarketplaceUI",
+      "selected": false
+    },
+    {
+      "id": "e_openSourcePluginArch_pluginCompatibilityCITesting",
+      "source": "openSourcePluginArch",
+      "target": "pluginCompatibilityCITesting",
+      "selected": false
+    },
+    {
+      "id": "e_openSourcePluginArch_licensingComplianceChecker",
+      "source": "openSourcePluginArch",
+      "target": "licensingComplianceChecker",
+      "selected": false
+    },
+    {
+      "id": "e_collaborativeDesignSharing_versionControlledRepository",
+      "source": "collaborativeDesignSharing",
+      "target": "versionControlledRepository",
+      "selected": false
+    },
+    {
+      "id": "e_collaborativeDesignSharing_granularAccessPermissions",
+      "source": "collaborativeDesignSharing",
+      "target": "granularAccessPermissions",
+      "selected": false
+    },
+    {
+      "id": "e_collaborativeDesignSharing_searchableIpLibrary",
+      "source": "collaborativeDesignSharing",
+      "target": "searchableIpLibrary",
+      "selected": false
+    },
+    {
+      "id": "e_collaborativeDesignSharing_publishIpBlocks",
+      "source": "collaborativeDesignSharing",
+      "target": "publishIpBlocks",
+      "selected": false
+    },
+    {
+      "id": "e_collaborativeDesignSharing_realTimeCommenting",
+      "source": "collaborativeDesignSharing",
+      "target": "realTimeCommenting",
+      "selected": false
+    },
+    {
+      "id": "e_collaborativeDesignSharing_visualMergeConflictResolution",
+      "source": "collaborativeDesignSharing",
+      "target": "visualMergeConflictResolution",
+      "selected": false
+    },
+    {
+      "id": "e_collaborativeDesignSharing_ipAttributionReport",
+      "source": "collaborativeDesignSharing",
+      "target": "ipAttributionReport",
+      "selected": false
+    },
+    {
+      "id": "e_collaborativeDesignSharing_pinnedIpVersionSimulation",
+      "source": "collaborativeDesignSharing",
+      "target": "pinnedIpVersionSimulation",
+      "selected": false
+    },
+    {
+      "id": "e_interactiveTutorialMode_guidedWalkthroughHighlight",
+      "source": "interactiveTutorialMode",
+      "target": "guidedWalkthroughHighlight",
+      "selected": false
+    },
+    {
+      "id": "e_interactiveTutorialMode_builtInTutorialLibrary",
+      "source": "interactiveTutorialMode",
+      "target": "builtInTutorialLibrary",
+      "selected": false
+    },
+    {
+      "id": "e_interactiveTutorialMode_persistentProgressTracking",
+      "source": "interactiveTutorialMode",
+      "target": "persistentProgressTracking",
+      "selected": false
+    },
+    {
+      "id": "e_interactiveTutorialMode_autoSimulationFeedback",
+      "source": "interactiveTutorialMode",
+      "target": "autoSimulationFeedback",
+      "selected": false
+    },
+    {
+      "id": "e_interactiveTutorialMode_inlineCodeChallengeValidation",
+      "source": "interactiveTutorialMode",
+      "target": "inlineCodeChallengeValidation",
+      "selected": false
+    },
+    {
+      "id": "e_interactiveTutorialMode_contextSensitiveHintSystem",
+      "source": "interactiveTutorialMode",
+      "target": "contextSensitiveHintSystem",
+      "selected": false
+    },
+    {
+      "id": "e_interactiveTutorialMode_tutorialWorkspaceResetUndo",
+      "source": "interactiveTutorialMode",
+      "target": "tutorialWorkspaceResetUndo",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_dragDropSnapGrid",
+      "source": "roadmapMVPQ12025",
+      "target": "dragDropSnapGrid",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_undoRedoHistory",
+      "source": "roadmapMVPQ12025",
+      "target": "undoRedoHistory",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_codeSnippetNodeSupport",
+      "source": "roadmapMVPQ12025",
+      "target": "codeSnippetNodeSupport",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_codeSnippetLanguageSupport",
+      "source": "roadmapMVPQ12025",
+      "target": "codeSnippetLanguageSupport",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_codeEditorSyntaxHighlighting",
+      "source": "roadmapMVPQ12025",
+      "target": "codeEditorSyntaxHighlighting",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_realtimeLinting",
+      "source": "roadmapMVPQ12025",
+      "target": "realtimeLinting",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_automaticPortInference",
+      "source": "roadmapMVPQ12025",
+      "target": "automaticPortInference",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_simulationIntegration",
+      "source": "roadmapMVPQ12025",
+      "target": "simulationIntegration",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_realTimeConnectionValidation",
+      "source": "roadmapMVPQ12025",
+      "target": "realTimeConnectionValidation",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_searchableBlockLibrary",
+      "source": "roadmapMVPQ12025",
+      "target": "searchableBlockLibrary",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_templateLibrary50Blocks",
+      "source": "roadmapMVPQ12025",
+      "target": "templateLibrary50Blocks",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_templateDualRepresentationSync",
+      "source": "roadmapMVPQ12025",
+      "target": "templateDualRepresentationSync",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapPerformanceQ22025_performanceZoomPan1000Nodes",
+      "source": "roadmapPerformanceQ22025",
+      "target": "performanceZoomPan1000Nodes",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapPerformanceQ22025_templateSearchFilterSub100ms",
+      "source": "roadmapPerformanceQ22025",
+      "target": "templateSearchFilterSub100ms",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapPerformanceQ22025_simulationPerf10kGate1kCps",
+      "source": "roadmapPerformanceQ22025",
+      "target": "simulationPerf10kGate1kCps",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapPerformanceQ22025_waveformExportVcdFsdb",
+      "source": "roadmapPerformanceQ22025",
+      "target": "waveformExportVcdFsdb",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapPerformanceQ22025_templateHighCoverageTests",
+      "source": "roadmapPerformanceQ22025",
+      "target": "templateHighCoverageTests",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_verilogNetlistExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "verilogNetlistExport",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_verilogLintExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "verilogLintExport",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_vhdlExportCompliance",
+      "source": "roadmapExportToolingQ32025",
+      "target": "vhdlExportCompliance",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_ipxactGeneration",
+      "source": "roadmapExportToolingQ32025",
+      "target": "ipxactGeneration",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_vivadoProjectExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "vivadoProjectExport",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_quartusProjectExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "quartusProjectExport",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_synopsysDCScriptExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "synopsysDCScriptExport",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_cocotbTestbenchExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "cocotbTestbenchExport",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_makefileExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "makefileExport",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_dockerCIExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "dockerCIExport",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_rtlCoverageReportExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "rtlCoverageReportExport",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_templateFpgaSynthesisPass",
+      "source": "roadmapExportToolingQ32025",
+      "target": "templateFpgaSynthesisPass",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_pluginApiVersioning",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "pluginApiVersioning",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_sandboxedPluginExecution",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "sandboxedPluginExecution",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_runtimePluginLoading",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "runtimePluginLoading",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_pluginSdkDocumentation",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "pluginSdkDocumentation",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_pluginMarketplaceUI",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "pluginMarketplaceUI",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_pluginCompatibilityCITesting",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "pluginCompatibilityCITesting",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_licensingComplianceChecker",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "licensingComplianceChecker",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_versionControlledRepository",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "versionControlledRepository",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_granularAccessPermissions",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "granularAccessPermissions",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_searchableIpLibrary",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "searchableIpLibrary",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_publishIpBlocks",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "publishIpBlocks",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_realTimeCommenting",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "realTimeCommenting",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_visualMergeConflictResolution",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "visualMergeConflictResolution",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_ipAttributionReport",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "ipAttributionReport",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_pinnedIpVersionSimulation",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "pinnedIpVersionSimulation",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_builtInTutorialLibrary",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "builtInTutorialLibrary",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_guidedWalkthroughHighlight",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "guidedWalkthroughHighlight",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_persistentProgressTracking",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "persistentProgressTracking",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_autoSimulationFeedback",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "autoSimulationFeedback",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_inlineCodeChallengeValidation",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "inlineCodeChallengeValidation",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_contextSensitiveHintSystem",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "contextSensitiveHintSystem",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_tutorialWorkspaceResetUndo",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "tutorialWorkspaceResetUndo",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_templateUserCloneSave",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "templateUserCloneSave",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_templateAutoDocumentation",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "templateAutoDocumentation",
+      "selected": false
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_templateSemanticVersioning",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "templateSemanticVersioning",
+      "selected": false
+    },
+    {
+      "id": "e_roadmap_1VkqwcOIu3_gitVersionControlExport",
+      "source": "roadmap_1VkqwcOIu3",
+      "target": "gitVersionControlExport"
+    },
+    {
+      "id": "e_roadmap_1VkqwcOIu3_reusableSnippetLibrary",
+      "source": "roadmap_1VkqwcOIu3",
+      "target": "reusableSnippetLibrary"
+    },
+    {
+      "id": "e_roadmap_1VkqwcOIu3_snippetVersioning",
+      "source": "roadmap_1VkqwcOIu3",
+      "target": "snippetVersioning"
+    },
+    {
+      "id": "e_roadmap_1VkqwcOIu3_verilatorSVCompileCoverage",
+      "source": "roadmap_1VkqwcOIu3",
+      "target": "verilatorSVCompileCoverage"
+    },
+    {
+      "id": "e_roadmap_1VkqwcOIu3_headlessCiCli",
+      "source": "roadmap_1VkqwcOIu3",
+      "target": "headlessCiCli"
+    },
+    {
+      "id": "e_roadmap_1VkqwcOIu3_uiInteractiveDebugging",
+      "source": "roadmap_1VkqwcOIu3",
+      "target": "uiInteractiveDebugging"
+    },
+    {
+      "id": "e_roadmap_1VkqwcOIu3_cocotbIntegrationSupport",
+      "source": "roadmap_1VkqwcOIu3",
+      "target": "cocotbIntegrationSupport"
+    }
+  ]
+}
