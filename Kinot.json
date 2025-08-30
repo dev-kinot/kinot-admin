@@ -3360,7 +3360,12 @@
       "type": "task",
       "data": {
         "label": "Plan block library scope & content",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": "",
+        "comments": ""
       },
       "position": {
         "x": 3432,
@@ -3377,7 +3382,11 @@
       "type": "task",
       "data": {
         "label": "Research common hardware blocks used in industry & education",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3916,
@@ -3394,7 +3403,12 @@
       "type": "task",
       "data": {
         "label": "Prioritize and finalize list of 50+ blocks",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": "",
+        "comments": ""
       },
       "position": {
         "x": 3988,
@@ -3412,7 +3426,10 @@
       "data": {
         "label": "Design standardized interfaces for all blocks",
         "collapsed": false,
-        "status": "Ongoing"
+        "status": "Ongoing",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3388,
@@ -3430,7 +3447,11 @@
       "data": {
         "label": "Define input/output port conventions (clock, reset, data, control)",
         "collapsed": false,
-        "status": "Ongoing"
+        "status": "Solved",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": "",
+        "comments": "Defined input, output and inout ports."
       },
       "position": {
         "x": 3892,
@@ -3448,7 +3469,11 @@
       "data": {
         "label": "Define parameterization schema (e.g., data width, depth)",
         "collapsed": false,
-        "status": "Ongoing"
+        "status": "Solved",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": "",
+        "comments": "Parametrization is the same as used in Verilog."
       },
       "position": {
         "x": 3932,
@@ -3465,7 +3490,11 @@
       "type": "task",
       "data": {
         "label": "Implement hardware blocks in HDL/Python",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3412,
@@ -3482,7 +3511,11 @@
       "type": "task",
       "data": {
         "label": "Write synthesizable Verilog for each block",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3988,
@@ -3499,7 +3532,11 @@
       "type": "task",
       "data": {
         "label": "Create equivalent Python behavioural models where useful",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3932,
@@ -3516,7 +3553,11 @@
       "type": "task",
       "data": {
         "label": "Create React Flow node definitions for each block",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3372,
@@ -3533,7 +3574,11 @@
       "type": "task",
       "data": {
         "label": "Design node icons / visuals",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 4048,
@@ -3550,7 +3595,11 @@
       "type": "task",
       "data": {
         "label": "Map node ports to block I/O",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 4048,
@@ -3567,7 +3616,11 @@
       "type": "task",
       "data": {
         "label": "Build parameter configuration UI",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 4028,
@@ -3584,7 +3637,11 @@
       "type": "task",
       "data": {
         "label": "Integrate blocks with Cocotb & Verilator simulation",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3364,
@@ -3601,7 +3658,11 @@
       "type": "task",
       "data": {
         "label": "Develop Cocotb testbenches for every block",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3988,
@@ -3618,7 +3679,11 @@
       "type": "task",
       "data": {
         "label": "Ensure Verilator compilation & lint passes",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3988,
@@ -3635,7 +3700,11 @@
       "type": "task",
       "data": {
         "label": "Validate and test all blocks",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3456,
@@ -3652,7 +3721,11 @@
       "type": "task",
       "data": {
         "label": "Run unit tests with predefined vectors",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 4004,
@@ -3669,7 +3742,11 @@
       "type": "task",
       "data": {
         "label": "Benchmark timing & resource utilization",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 4000,
@@ -3686,7 +3763,11 @@
       "type": "task",
       "data": {
         "label": "Document block usage & APIs",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3460,
@@ -3703,7 +3784,11 @@
       "type": "task",
       "data": {
         "label": "Write usage examples and tutorials",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 4020,
@@ -3720,7 +3805,11 @@
       "type": "task",
       "data": {
         "label": "Generate API reference documentation",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 4012,
@@ -3737,7 +3826,11 @@
       "type": "task",
       "data": {
         "label": "Package and release block library",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3436,
@@ -3754,7 +3847,11 @@
       "type": "task",
       "data": {
         "label": "Bundle blocks as installable module/package",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3984,
@@ -3771,7 +3868,11 @@
       "type": "task",
       "data": {
         "label": "Version, tag, and publish release",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 4024,
@@ -3788,7 +3889,11 @@
       "type": "task",
       "data": {
         "label": "Set up CI/CD pipeline for blocks",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3440,
@@ -3805,7 +3910,11 @@
       "type": "task",
       "data": {
         "label": "Configure automated build pipeline",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 4020,
@@ -3822,7 +3931,11 @@
       "type": "task",
       "data": {
         "label": "Configure automated test pipeline",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 4024,
@@ -3839,7 +3952,11 @@
       "type": "task",
       "data": {
         "label": "Collect and process user feedback",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3436,
@@ -3856,7 +3973,11 @@
       "type": "task",
       "data": {
         "label": "Gather feedback from beta users",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 4032,
@@ -3873,7 +3994,11 @@
       "type": "task",
       "data": {
         "label": "Iteratively improve blocks based on feedback",
-        "collapsed": false
+        "collapsed": false,
+        "status": "New",
+        "priority": "Medium",
+        "startDate": "",
+        "dueDate": ""
       },
       "position": {
         "x": 3980,
@@ -5675,5 +5800,155 @@
       "target": "iterateImprovements",
       "selected": false
     }
-  ]
+  ],
+  "ui": {
+    "view": {
+      "tableMode": true,
+      "timelineMode": false,
+      "pathOnlyMode": false,
+      "leftPanelVisible": true,
+      "showEdgeLabels": true
+    },
+    "nodeVisibility": {
+      "stakeholder": true,
+      "keydriver": true,
+      "applicationdriver": true,
+      "category": true,
+      "requirement": true,
+      "task": true,
+      "owner": true,
+      "roadmap": true
+    },
+    "table": {
+      "groupBy": "applicationdriver",
+      "groupSort": "weight-desc",
+      "expandedGroups": {
+        "roadmap:roadmapMVPQ12025|applicationdriver:prototypeTemplates": true,
+        "roadmap:roadmapMVPQ12025|applicationdriver:visualBlockEditor": true,
+        "roadmap:roadmapMVPQ12025|applicationdriver:codeSnippetNodes": true
+      },
+      "higherGroupBy": "roadmap",
+      "higherGroupSort": "alpha-asc",
+      "expandedHigherGroups": {
+        "roadmap:roadmapMVPQ12025": true
+      },
+      "sortConfig": {
+        "colIndex": 2,
+        "direction": "desc"
+      },
+      "visibleCols": {
+        "Requirement": true,
+        "Impact": true,
+        "Weight": true,
+        "Impact Insights": true,
+        "Start Date": true,
+        "Due Date": true,
+        "Status": true,
+        "Progress": true,
+        "Stakeholder(s)": true,
+        "Key Driver(s)": true,
+        "Application Driver(s)": true,
+        "Category": true,
+        "Roadmap": true,
+        "Owner(s)": true
+      },
+      "colWidthByHeader": {
+        "ID": 110,
+        "Requirement": 280,
+        "Impact": 100,
+        "Weight": 100,
+        "Impact Insights": 300,
+        "Start Date": 150,
+        "Due Date": 150,
+        "Status": 100,
+        "Progress": 100,
+        "Stakeholder(s)": 220,
+        "Key Driver(s)": 220,
+        "Application Driver(s)": 220,
+        "Category": 220,
+        "Roadmap": 220,
+        "Owner(s)": 220,
+        "Actions": 120
+      },
+      "filters": {
+        "tableFilterText": "",
+        "tableFilterStartFrom": "",
+        "tableFilterStartTo": "",
+        "tableFilterDueFrom": "",
+        "tableFilterDueTo": "",
+        "tableFilterOverdueOnly": false,
+        "tableFilterStakeholder": "",
+        "tableFilterKeydriver": "",
+        "tableFilterAppdriver": "",
+        "tableFilterOwner": "",
+        "tableFilterImpactMin": "",
+        "tableFilterImpactMax": ""
+      }
+    },
+    "tasksPanel": {
+      "expandedTaskIds": {
+        "planBlockLibrary": false,
+        "researchCommonBlocks": false,
+        "prioritizeBlockList": false,
+        "designBlockInterfaces": false,
+        "defineIOPorts": false,
+        "defineParamSchema": false,
+        "implementHardwareBlocks": false,
+        "codeVerilogBlocks": false,
+        "codePythonModels": false,
+        "createEditorNodeDefinitions": false,
+        "createNodeIcons": false,
+        "mapPortsToNode": false,
+        "buildConfigUI": false,
+        "integrateSimulationFramework": false,
+        "writeCocotbTestbenches": false,
+        "ensureVerilatorCompatibility": false,
+        "validateAndTestBlocks": false,
+        "unitTestBlocks": false,
+        "performanceBenchmarking": false,
+        "documentBlocks": false,
+        "writeUsageExamples": false,
+        "generateAPIDocumentation": false,
+        "packageAndReleaseLibrary": false,
+        "bundleInstallableModule": false,
+        "versionAndPublish": false,
+        "setupCICDPipeline": false,
+        "configureAutoBuild": false,
+        "configureAutoTest": false,
+        "collectUserFeedback": false,
+        "gatherBetaFeedback": false,
+        "iterateImprovements": false
+      },
+      "sort": null,
+      "filters": {
+        "taskFilterText": "",
+        "taskFilterOwner": "",
+        "taskFilterStatus": "",
+        "taskFilterPriority": "",
+        "taskFilterStartFrom": "",
+        "taskFilterStartTo": "",
+        "taskFilterDueFrom": "",
+        "taskFilterDueTo": "",
+        "taskFilterOverdueOnly": false
+      }
+    },
+    "timeline": {
+      "groupBy": "applicationdriver",
+      "higherGroupBy": "roadmap",
+      "filterOwner": "",
+      "filterDriver": "",
+      "filterOverdue": false,
+      "filterStatus": "Any",
+      "filterPriority": "Any",
+      "scale": "quarters",
+      "groupSort": "weight-desc",
+      "higherGroupSort": "weight-desc",
+      "zoomPct": 200,
+      "expandedHigherGroups": {},
+      "expandedGroups": {
+        "roadmapMVPQ12025|prototypeTemplates": true
+      },
+      "scrollLeft": 998.2999877929688
+    }
+  }
 }
