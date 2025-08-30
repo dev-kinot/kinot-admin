@@ -14,7 +14,7 @@
       },
       "position": {
         "x": 48,
-        "y": 9990
+        "y": 11088
       },
       "style": {
         "width": 172,
@@ -36,7 +36,7 @@
       },
       "position": {
         "x": 48,
-        "y": 17858
+        "y": 19820
       },
       "style": {
         "width": 172,
@@ -58,7 +58,7 @@
       },
       "position": {
         "x": 48,
-        "y": 18330
+        "y": 20292
       },
       "style": {
         "width": 172,
@@ -85,7 +85,7 @@
       },
       "position": {
         "x": 16,
-        "y": 18094
+        "y": 20056
       },
       "style": {
         "width": 236,
@@ -107,7 +107,7 @@
       },
       "position": {
         "x": 36,
-        "y": 19510
+        "y": 21472
       },
       "style": {
         "width": 196,
@@ -134,7 +134,7 @@
       },
       "position": {
         "x": 0,
-        "y": 19038
+        "y": 21000
       },
       "style": {
         "width": 268,
@@ -156,7 +156,7 @@
       },
       "position": {
         "x": 8,
-        "y": 19274
+        "y": 21236
       },
       "style": {
         "width": 252,
@@ -178,7 +178,7 @@
       },
       "position": {
         "x": 28,
-        "y": 28274
+        "y": 31460
       },
       "style": {
         "width": 212,
@@ -200,7 +200,7 @@
       },
       "position": {
         "x": 12,
-        "y": 18566
+        "y": 20528
       },
       "style": {
         "width": 244,
@@ -222,7 +222,7 @@
       },
       "position": {
         "x": 48,
-        "y": 20454
+        "y": 22416
       },
       "style": {
         "width": 172,
@@ -244,7 +244,7 @@
       },
       "position": {
         "x": 48,
-        "y": 17622
+        "y": 19584
       },
       "style": {
         "width": 172,
@@ -266,7 +266,7 @@
       },
       "position": {
         "x": 48,
-        "y": 18802
+        "y": 20764
       },
       "style": {
         "width": 172,
@@ -288,7 +288,7 @@
       },
       "position": {
         "x": 20,
-        "y": 20218
+        "y": 22180
       },
       "style": {
         "width": 228,
@@ -310,7 +310,7 @@
       },
       "position": {
         "x": 32,
-        "y": 19982
+        "y": 21944
       },
       "style": {
         "width": 204,
@@ -332,7 +332,7 @@
       },
       "position": {
         "x": 32,
-        "y": 19746
+        "y": 21708
       },
       "style": {
         "width": 204,
@@ -354,7 +354,7 @@
       },
       "position": {
         "x": 428,
-        "y": 5748
+        "y": 6216
       },
       "style": {
         "width": 228,
@@ -376,7 +376,7 @@
       },
       "position": {
         "x": 384,
-        "y": 9640
+        "y": 9408
       },
       "style": {
         "width": 316,
@@ -398,7 +398,7 @@
       },
       "position": {
         "x": 412,
-        "y": 9876
+        "y": 10675
       },
       "style": {
         "width": 260,
@@ -420,7 +420,7 @@
       },
       "position": {
         "x": 396,
-        "y": 26590
+        "y": 30029
       },
       "style": {
         "width": 292,
@@ -442,7 +442,7 @@
       },
       "position": {
         "x": 380,
-        "y": 18968
+        "y": 21183
       },
       "style": {
         "width": 324,
@@ -464,7 +464,7 @@
       },
       "position": {
         "x": 368,
-        "y": 13464
+        "y": 14903
       },
       "style": {
         "width": 348,
@@ -486,7 +486,7 @@
       },
       "position": {
         "x": 436,
-        "y": 29166
+        "y": 32713
       },
       "style": {
         "width": 212,
@@ -508,7 +508,7 @@
       },
       "position": {
         "x": 428,
-        "y": 13090
+        "y": 14529
       },
       "style": {
         "width": 228,
@@ -529,8 +529,8 @@
         "editing": false
       },
       "position": {
-        "x": 56,
-        "y": 0
+        "x": 880,
+        "y": 1892
       },
       "style": {
         "width": 236,
@@ -551,8 +551,8 @@
         "editing": false
       },
       "position": {
-        "x": 56,
-        "y": 236
+        "x": 880,
+        "y": 6876
       },
       "style": {
         "width": 236,
@@ -573,8 +573,8 @@
         "editing": false
       },
       "position": {
-        "x": 4,
-        "y": 472
+        "x": 828,
+        "y": 15163
       },
       "style": {
         "width": 340,
@@ -595,8 +595,8 @@
         "editing": false
       },
       "position": {
-        "x": 0,
-        "y": 1946
+        "x": 864,
+        "y": 31611
       },
       "style": {
         "width": 268,
@@ -604,7 +604,7 @@
       },
       "width": 268,
       "height": 36,
-      "selected": true
+      "selected": false
     },
     {
       "id": "collaborativeDesignSharing",
@@ -617,8 +617,8 @@
         "editing": false
       },
       "position": {
-        "x": 0,
-        "y": 944
+        "x": 824,
+        "y": 24724
       },
       "style": {
         "width": 348,
@@ -639,8 +639,8 @@
         "editing": false
       },
       "position": {
-        "x": 76,
-        "y": 1180
+        "x": 900,
+        "y": 21231
       },
       "style": {
         "width": 196,
@@ -661,8 +661,8 @@
         "editing": false
       },
       "position": {
-        "x": 20,
-        "y": 1416
+        "x": 844,
+        "y": 34480
       },
       "style": {
         "width": 308,
@@ -683,8 +683,8 @@
         "editing": false
       },
       "position": {
-        "x": 8,
-        "y": 1652
+        "x": 832,
+        "y": 11636
       },
       "style": {
         "width": 332,
@@ -708,8 +708,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 930,
-        "y": 28896
+        "x": 1762,
+        "y": 9680
       },
       "style": {
         "width": 1020,
@@ -733,8 +733,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 962,
-        "y": 29240
+        "x": 1794,
+        "y": 10024
       },
       "style": {
         "width": 956,
@@ -758,8 +758,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1022,
-        "y": 29584
+        "x": 1854,
+        "y": 10368
       },
       "style": {
         "width": 836,
@@ -783,8 +783,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1102,
-        "y": 29928
+        "x": 1934,
+        "y": 10712
       },
       "style": {
         "width": 676,
@@ -808,8 +808,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1018,
-        "y": 30272
+        "x": 1850,
+        "y": 11056
       },
       "style": {
         "width": 844,
@@ -833,8 +833,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 946,
-        "y": 30616
+        "x": 1778,
+        "y": 11400
       },
       "style": {
         "width": 988,
@@ -858,8 +858,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 942,
-        "y": 30960
+        "x": 1774,
+        "y": 11744
       },
       "style": {
         "width": 996,
@@ -883,8 +883,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1034,
-        "y": 31304
+        "x": 1866,
+        "y": 12088
       },
       "style": {
         "width": 812,
@@ -908,7 +908,7 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1170,
+        "x": 2002,
         "y": 0
       },
       "style": {
@@ -933,7 +933,7 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1190,
+        "x": 2022,
         "y": 344
       },
       "style": {
@@ -958,7 +958,7 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1110,
+        "x": 1942,
         "y": 688
       },
       "style": {
@@ -983,7 +983,7 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1150,
+        "x": 1982,
         "y": 1032
       },
       "style": {
@@ -1008,7 +1008,7 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1198,
+        "x": 2030,
         "y": 1376
       },
       "style": {
@@ -1033,7 +1033,7 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1122,
+        "x": 1954,
         "y": 1720
       },
       "style": {
@@ -1058,7 +1058,7 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1222,
+        "x": 2054,
         "y": 2064
       },
       "style": {
@@ -1083,7 +1083,7 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1194,
+        "x": 2026,
         "y": 2408
       },
       "style": {
@@ -1108,8 +1108,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1010,
-        "y": 4472
+        "x": 1842,
+        "y": 4940
       },
       "style": {
         "width": 860,
@@ -1133,8 +1133,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 882,
-        "y": 4816
+        "x": 1714,
+        "y": 5284
       },
       "style": {
         "width": 1116,
@@ -1158,8 +1158,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 970,
-        "y": 5160
+        "x": 1802,
+        "y": 5628
       },
       "style": {
         "width": 940,
@@ -1183,8 +1183,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1014,
-        "y": 5504
+        "x": 1846,
+        "y": 5972
       },
       "style": {
         "width": 852,
@@ -1208,8 +1208,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 754,
-        "y": 5848
+        "x": 1586,
+        "y": 6316
       },
       "style": {
         "width": 1372,
@@ -1233,8 +1233,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 966,
-        "y": 6192
+        "x": 1798,
+        "y": 6660
       },
       "style": {
         "width": 948,
@@ -1258,8 +1258,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 954,
-        "y": 6536
+        "x": 1786,
+        "y": 7004
       },
       "style": {
         "width": 972,
@@ -1283,8 +1283,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1042,
-        "y": 8600
+        "x": 1874,
+        "y": 14800
       },
       "style": {
         "width": 796,
@@ -1308,8 +1308,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 942,
-        "y": 8944
+        "x": 1774,
+        "y": 15144
       },
       "style": {
         "width": 996,
@@ -1333,8 +1333,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1146,
-        "y": 9288
+        "x": 1978,
+        "y": 15488
       },
       "style": {
         "width": 588,
@@ -1358,8 +1358,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1174,
-        "y": 9632
+        "x": 2006,
+        "y": 15832
       },
       "style": {
         "width": 532,
@@ -1383,8 +1383,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1062,
-        "y": 9976
+        "x": 1894,
+        "y": 16176
       },
       "style": {
         "width": 756,
@@ -1408,8 +1408,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1034,
-        "y": 10320
+        "x": 1866,
+        "y": 16520
       },
       "style": {
         "width": 812,
@@ -1433,8 +1433,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1010,
-        "y": 19264
+        "x": 1842,
+        "y": 19160
       },
       "style": {
         "width": 860,
@@ -1458,8 +1458,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1086,
-        "y": 19608
+        "x": 1918,
+        "y": 19504
       },
       "style": {
         "width": 708,
@@ -1483,8 +1483,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1114,
-        "y": 19952
+        "x": 1946,
+        "y": 19848
       },
       "style": {
         "width": 652,
@@ -1508,8 +1508,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1054,
-        "y": 20296
+        "x": 1886,
+        "y": 20192
       },
       "style": {
         "width": 772,
@@ -1533,8 +1533,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1010,
-        "y": 20640
+        "x": 1842,
+        "y": 20536
       },
       "style": {
         "width": 860,
@@ -1558,8 +1558,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1002,
-        "y": 20984
+        "x": 1834,
+        "y": 20880
       },
       "style": {
         "width": 876,
@@ -1583,8 +1583,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1050,
-        "y": 21328
+        "x": 1882,
+        "y": 21224
       },
       "style": {
         "width": 780,
@@ -1608,8 +1608,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 970,
-        "y": 21672
+        "x": 1802,
+        "y": 21568
       },
       "style": {
         "width": 940,
@@ -1633,8 +1633,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1014,
-        "y": 22016
+        "x": 1846,
+        "y": 21912
       },
       "style": {
         "width": 852,
@@ -1658,8 +1658,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 994,
-        "y": 22360
+        "x": 1826,
+        "y": 22256
       },
       "style": {
         "width": 892,
@@ -1683,8 +1683,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 798,
-        "y": 0
+        "x": 1710,
+        "y": 28028
       },
       "style": {
         "width": 1124,
@@ -1708,8 +1708,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 722,
-        "y": 344
+        "x": 1634,
+        "y": 28372
       },
       "style": {
         "width": 1276,
@@ -1733,8 +1733,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 822,
-        "y": 688
+        "x": 1734,
+        "y": 28716
       },
       "style": {
         "width": 1076,
@@ -1758,8 +1758,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 642,
-        "y": 1032
+        "x": 1554,
+        "y": 29060
       },
       "style": {
         "width": 1436,
@@ -1783,8 +1783,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 870,
-        "y": 1376
+        "x": 1782,
+        "y": 29404
       },
       "style": {
         "width": 980,
@@ -1808,8 +1808,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 842,
-        "y": 1720
+        "x": 1754,
+        "y": 29748
       },
       "style": {
         "width": 1036,
@@ -1833,8 +1833,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 790,
-        "y": 2064
+        "x": 1702,
+        "y": 30092
       },
       "style": {
         "width": 1140,
@@ -1858,8 +1858,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 898,
-        "y": 16512
+        "x": 1730,
+        "y": 25276
       },
       "style": {
         "width": 1084,
@@ -1883,8 +1883,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 910,
-        "y": 16856
+        "x": 1742,
+        "y": 25620
       },
       "style": {
         "width": 1060,
@@ -1908,8 +1908,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 902,
-        "y": 17200
+        "x": 1734,
+        "y": 25964
       },
       "style": {
         "width": 1076,
@@ -1933,8 +1933,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 914,
-        "y": 17544
+        "x": 1746,
+        "y": 26308
       },
       "style": {
         "width": 1052,
@@ -1958,8 +1958,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1030,
-        "y": 17888
+        "x": 1862,
+        "y": 26652
       },
       "style": {
         "width": 820,
@@ -1983,8 +1983,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 946,
-        "y": 18232
+        "x": 1778,
+        "y": 26996
       },
       "style": {
         "width": 988,
@@ -2008,8 +2008,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 930,
-        "y": 18576
+        "x": 1762,
+        "y": 27340
       },
       "style": {
         "width": 1020,
@@ -2033,8 +2033,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 826,
-        "y": 18920
+        "x": 1658,
+        "y": 27684
       },
       "style": {
         "width": 1228,
@@ -2058,8 +2058,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 906,
-        "y": 24768
+        "x": 1738,
+        "y": 32696
       },
       "style": {
         "width": 1068,
@@ -2083,8 +2083,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 878,
-        "y": 25112
+        "x": 1710,
+        "y": 33040
       },
       "style": {
         "width": 1124,
@@ -2108,8 +2108,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 934,
-        "y": 25456
+        "x": 1766,
+        "y": 33384
       },
       "style": {
         "width": 1012,
@@ -2133,8 +2133,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 922,
-        "y": 25800
+        "x": 1754,
+        "y": 33728
       },
       "style": {
         "width": 1036,
@@ -2158,8 +2158,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 902,
-        "y": 26144
+        "x": 1734,
+        "y": 34072
       },
       "style": {
         "width": 1076,
@@ -2183,8 +2183,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 942,
-        "y": 26488
+        "x": 1774,
+        "y": 34416
       },
       "style": {
         "width": 996,
@@ -2208,8 +2208,8 @@
         "maxWeight": 24
       },
       "position": {
-        "x": 1006,
-        "y": 26832
+        "x": 1838,
+        "y": 34760
       },
       "style": {
         "width": 868,
@@ -2229,7 +2229,7 @@
       },
       "position": {
         "x": 912,
-        "y": 4860
+        "y": 5672
       },
       "style": {
         "width": 172,
@@ -2254,13 +2254,13 @@
       },
       "position": {
         "x": 816,
-        "y": 10192
+        "y": 10584
       },
       "style": {
         "width": 364,
         "height": 36
       },
-      "width": 388,
+      "width": 364,
       "height": 36,
       "selected": false,
       "positionAbsolute": {
@@ -2279,13 +2279,13 @@
       },
       "position": {
         "x": 844,
-        "y": 17326
+        "y": 20759
       },
       "style": {
         "width": 308,
         "height": 36
       },
-      "width": 332,
+      "width": 308,
       "height": 36,
       "selected": false,
       "positionAbsolute": {
@@ -2304,13 +2304,13 @@
       },
       "position": {
         "x": 848,
-        "y": 26514
+        "y": 31375
       },
       "style": {
         "width": 300,
         "height": 36
       },
-      "width": 324,
+      "width": 300,
       "height": 36,
       "selected": false
     },
@@ -2324,13 +2324,13 @@
       },
       "position": {
         "x": 828,
-        "y": 24468
+        "y": 29665
       },
       "style": {
         "width": 340,
         "height": 36
       },
-      "width": 364,
+      "width": 340,
       "height": 36,
       "selected": false,
       "positionAbsolute": {
@@ -2344,15 +2344,15 @@
       "type": "roadmap",
       "position": {
         "x": 912,
-        "y": 10746
+        "y": 14146
       },
       "data": {
         "label": "V6 - Improvements",
         "collapsed": false
       },
       "selected": false,
-      "width": 168,
-      "height": 50,
+      "width": 172,
+      "height": 36,
       "style": {
         "width": 172,
         "height": 36
@@ -2363,19 +2363,21 @@
       "type": "requirement",
       "data": {
         "label": "Box Select & Multi-Select Grouping with Align/Distribute Executing in ≤200 ms for 50 Blocks",
+        "impact": 4,
+        "impactInsights": "**Why it matters** \n• Core daily‐use editing flow; slow or missing grouping/align makes large designs painful. \n• Directly drives perceived usability of the visual editor, a primary product differentiator. \n\n**Why not 5** \n• Work-arounds (manual drag) exist, so failure degrades UX but does not block all use.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 20,
         "maxWeight": 24
       },
       "position": {
-        "x": 1066,
+        "x": 1898,
         "y": 2752
       },
       "style": {
         "width": 748,
-        "height": 144
+        "height": 288
       },
       "selected": false,
       "width": 748,
@@ -2386,19 +2388,21 @@
       "type": "requirement",
       "data": {
         "label": "Create, Collapse, and Re-open Hierarchical Sub-Diagrams of 100 Blocks in ≤1 s while Preserving Netlist Hierarchy",
+        "impact": 5,
+        "impactInsights": "**Why it matters** \n• Essential for scaling beyond toy examples; without hierarchy, diagrams become unmanageable. \n• Impacts both correctness (netlist scope) and UX (visual clutter). \n• Competitors like GNU Radio provide this; absence would be a strategic gap.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 20,
         "maxWeight": 24
       },
       "position": {
-        "x": 982,
-        "y": 3096
+        "x": 1814,
+        "y": 3240
       },
       "style": {
         "width": 916,
-        "height": 144
+        "height": 216
       },
       "selected": false,
       "width": 916,
@@ -2409,19 +2413,21 @@
       "type": "requirement",
       "data": {
         "label": "Parameter Inspector Panel Opens in ≤100 ms and Applies Changes to Running Simulation in <1 s",
+        "impact": 5,
+        "impactInsights": "**Why it matters** \n• Real-time param tweaking is key to an interactive HW sandbox. \n• Directly ties editor to simulator; slow feedback kills exploratory flow. \n• Any delay here propagates to every design iteration.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 20,
         "maxWeight": 24
       },
       "position": {
-        "x": 1062,
-        "y": 3440
+        "x": 1894,
+        "y": 3656
       },
       "style": {
         "width": 756,
-        "height": 144
+        "height": 216
       },
       "selected": false,
       "width": 756,
@@ -2432,19 +2438,21 @@
       "type": "requirement",
       "data": {
         "label": "Auto-Route 90° Orthogonal Connections for up to 100 Nets in ≤500 ms with ≤5 Overlaps",
+        "impact": 4,
+        "impactInsights": "**Why it matters** \n• Reduces diagram clutter and manual wiring effort, improving readability. \n• Speeds initial prototyping, a core product promise. \n\n**Why not 5** \n• Users can still draw wires manually; it’s a productivity boost, not a blocker.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 20,
         "maxWeight": 24
       },
       "position": {
-        "x": 1094,
-        "y": 3784
+        "x": 1926,
+        "y": 4072
       },
       "style": {
         "width": 692,
-        "height": 144
+        "height": 288
       },
       "selected": false,
       "width": 692,
@@ -2455,19 +2463,21 @@
       "type": "requirement",
       "data": {
         "label": "Automatic Diagram Autosave Every 30 s with Session Recovery Loading in ≤3 s",
+        "impact": 5,
+        "impactInsights": "**Why it matters** \n• Protects user work from crashes/power loss; trust & reliability issue. \n• Industry-standard expectation; absence would be viewed as negligence.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 20,
         "maxWeight": 24
       },
       "position": {
-        "x": 1130,
-        "y": 4128
+        "x": 1962,
+        "y": 4560
       },
       "style": {
         "width": 620,
-        "height": 144
+        "height": 180
       },
       "selected": false,
       "width": 620,
@@ -2478,19 +2488,21 @@
       "type": "requirement",
       "data": {
         "label": "Enable parameterized templates: Editing parameters in properties panel regenerates HDL & updates block within 500 ms for 95th percentile interactions",
+        "impact": 4,
+        "impactInsights": "**Why it matters** \n• Makes template library truly reusable; fixed-param blocks limit value. \n• Tight regeneration time keeps interactive feel. \n\n**Why not 5** \n• Users could clone & edit code manually, though far less convenient.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 24,
         "maxWeight": 24
       },
       "position": {
-        "x": 834,
-        "y": 31648
+        "x": 1666,
+        "y": 12432
       },
       "style": {
         "width": 1212,
-        "height": 144
+        "height": 288
       },
       "selected": false,
       "width": 1212,
@@ -2501,19 +2513,21 @@
       "type": "requirement",
       "data": {
         "label": "Attach SPDX license identifier and author metadata to every template and surface in catalog details view",
+        "impact": 2,
+        "impactInsights": "**Why it matters** \n• Clarifies legal usage, easing enterprise adoption. \n\n**Why low** \n• Does not affect core design/simulation flow; mostly compliance.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 24,
         "maxWeight": 24
       },
       "position": {
-        "x": 1014,
-        "y": 31992
+        "x": 1846,
+        "y": 12920
       },
       "style": {
         "width": 852,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 852,
@@ -2524,19 +2538,21 @@
       "type": "requirement",
       "data": {
         "label": "Run nightly CI pipeline executing Verilator+Cocotb simulations for all templates, completing under 10 minutes with 0 failures",
+        "impact": 3,
+        "impactInsights": "**Why it matters** \n• Ensures shipped templates stay functional; reduces support load. \n• Builds credibility of catalog. \n\n**Why not higher** \n• Users can still work even if CI occasionally fails; indirect impact.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 24,
         "maxWeight": 24
       },
       "position": {
-        "x": 930,
-        "y": 32336
+        "x": 1762,
+        "y": 13372
       },
       "style": {
         "width": 1020,
-        "height": 144
+        "height": 288
       },
       "selected": false,
       "width": 1020,
@@ -2547,19 +2563,21 @@
       "type": "requirement",
       "data": {
         "label": "Generate port documentation table listing direction, width, and purpose for 100 % of template ports",
+        "impact": 2,
+        "impactInsights": "**Why it matters** \n• Aids learnability and integration. \n\n**Why low** \n• Documentation improves UX but does not unlock functionality.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 24,
         "maxWeight": 24
       },
       "position": {
-        "x": 1034,
-        "y": 32680
+        "x": 1866,
+        "y": 13860
       },
       "style": {
         "width": 812,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 812,
@@ -2570,19 +2588,21 @@
       "type": "requirement",
       "data": {
         "label": "Provide at least 20 reusable source/sink templates (e.g., noise, sine, spectrum analyzer) for signal generation and inspection",
+        "impact": 4,
+        "impactInsights": "**Why it matters** \n• Out-of-box library sets initial user value; fewer blocks = empty toolbox. \n• Differentiates product similar to GNU Radio’s block set. \n\n**Why not 5** \n• Users can create custom blocks, though with higher barrier.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 24,
         "maxWeight": 24
       },
       "position": {
-        "x": 926,
-        "y": 33024
+        "x": 1758,
+        "y": 14312
       },
       "style": {
         "width": 1028,
-        "height": 144
+        "height": 288
       },
       "selected": false,
       "width": 1028,
@@ -2593,19 +2613,21 @@
       "type": "requirement",
       "data": {
         "label": "Offer context-aware auto-completion and signature help for Verilog system tasks/functions and Python 3.10 standard library symbols with response time ≤ 200 ms per keystroke.",
+        "impact": 4,
+        "impactInsights": "**Why it matters** \n• Speeds code entry, reduces syntax errors—critical for mixed visual/code workflow. \n• Competing IDEs provide it; missing feature hurts perceived polish. \n\n**Why not 5** \n• Power users can work without it; core simulation unaffected.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 20,
         "maxWeight": 24
       },
       "position": {
-        "x": 738,
-        "y": 6880
+        "x": 1570,
+        "y": 7348
       },
       "style": {
         "width": 1404,
-        "height": 144
+        "height": 288
       },
       "selected": false,
       "width": 1404,
@@ -2616,19 +2638,21 @@
       "type": "requirement",
       "data": {
         "label": "Execute Python snippets in a restricted sandbox limiting file-system access to the project directory, capping CPU time to 2 s per run, and preventing network calls.",
+        "impact": 4,
+        "impactInsights": "**Why it matters** \n• Prevents malicious or runaway code; protects user machine and corporate environments. \n• Enables safe sharing of designs. \n\n**Why not 5** \n• Desktop app (not cloud) less exposed, though still important.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 20,
         "maxWeight": 24
       },
       "position": {
-        "x": 774,
-        "y": 7224
+        "x": 1606,
+        "y": 7836
       },
       "style": {
         "width": 1332,
-        "height": 144
+        "height": 288
       },
       "selected": false,
       "width": 1332,
@@ -2639,19 +2663,21 @@
       "type": "requirement",
       "data": {
         "label": "Display inline documentation tool-tips for Verilog keywords, Python built-ins, and user-defined symbols on hover with latency ≤ 100 ms.",
+        "impact": 3,
+        "impactInsights": "**Why it matters** \n• Lowers learning curve; complements autocomplete. \n\n**Why not higher** \n• Convenience feature; absence doesn’t block workflow.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 20,
         "maxWeight": 24
       },
       "position": {
-        "x": 890,
-        "y": 7568
+        "x": 1722,
+        "y": 8324
       },
       "style": {
         "width": 1100,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1100,
@@ -2662,19 +2688,21 @@
       "type": "requirement",
       "data": {
         "label": "Enable users to mark snippet pins as probes that automatically stream to oscilloscope/spectrum sink blocks at ≥ 20 fps for up to 1 024 signals.",
+        "impact": 5,
+        "impactInsights": "**Why it matters** \n• Real-time signal visibility is a marquee feature similar to on-chip debug. \n• Deeply integrates code & visual sinks; drives \"simulate & inspect\" value prop. \n• Performance target ensures smooth UX.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 20,
         "maxWeight": 24
       },
       "position": {
-        "x": 858,
-        "y": 7912
+        "x": 1690,
+        "y": 8776
       },
       "style": {
         "width": 1164,
-        "height": 144
+        "height": 216
       },
       "selected": false,
       "width": 1164,
@@ -2685,19 +2713,21 @@
       "type": "requirement",
       "data": {
         "label": "Allow definition of editable parameters/constants in a snippet’s property panel and regenerate code/ports within 500 ms after any parameter change.",
+        "impact": 4,
+        "impactInsights": "**Why it matters** \n• Mirrors param templates but for ad-hoc code; empowers iterative design. \n• Keeps code and diagram in sync. \n\n**Why not 5** \n• Users can still edit code directly; workflow just less streamlined.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 20,
         "maxWeight": 24
       },
       "position": {
-        "x": 842,
-        "y": 8256
+        "x": 1674,
+        "y": 9192
       },
       "style": {
         "width": 1196,
-        "height": 144
+        "height": 288
       },
       "selected": false,
       "width": 1196,
@@ -2708,19 +2738,21 @@
       "type": "requirement",
       "data": {
         "label": "Export SystemVerilog-2017 that compiles without warnings on Synopsys VCS and Mentor Questa for designs up to 200 k gates.",
+        "impact": 5,
+        "impactInsights": "**Why it matters** \n• Bridges from exploratory prototyping to production tool-chains; critical for professional adoption. \n• Compilation warnings erode trust; clean export is table stakes.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 22,
         "maxWeight": 24
       },
       "position": {
-        "x": 946,
-        "y": 22704
+        "x": 1778,
+        "y": 22600
       },
       "style": {
         "width": 988,
-        "height": 144
+        "height": 180
       },
       "selected": false,
       "width": 988,
@@ -2731,19 +2763,21 @@
       "type": "requirement",
       "data": {
         "label": "Generate Xilinx Design Constraints (.xdc) with pin and timing constraints yielding zero unmet constraints in Vivado timing analysis on reference board.",
+        "impact": 4,
+        "impactInsights": "**Why it matters** \n• Enables FPGA implementation flow, a major use case. \n• Reduces manual constraint editing errors. \n\n**Why not 5** \n• Applies only to Xilinx users; others unaffected.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 22,
         "maxWeight": 24
       },
       "position": {
-        "x": 826,
-        "y": 23048
+        "x": 1658,
+        "y": 22980
       },
       "style": {
         "width": 1228,
-        "height": 144
+        "height": 288
       },
       "selected": false,
       "width": 1228,
@@ -2754,19 +2788,21 @@
       "type": "requirement",
       "data": {
         "label": "Produce Synopsys Design Constraints (.sdc) capturing clocks, IO, and false-path definitions achieving ≤ 5 % timing slack deviation post-synthesis in Design Compiler.",
+        "impact": 4,
+        "impactInsights": "**Why it matters** \n• Critical for ASIC flow; ensures timing intent preserved. \n\n**Why not 5** \n• High-end niche; hobbyists might not care.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 22,
         "maxWeight": 24
       },
       "position": {
-        "x": 770,
-        "y": 23392
+        "x": 1602,
+        "y": 23468
       },
       "style": {
         "width": 1340,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1340,
@@ -2777,19 +2813,21 @@
       "type": "requirement",
       "data": {
         "label": "Auto-generate CMSIS-SVD 1.3 compliant XML and corresponding C header/driver for memory-mapped registers compiling cleanly with GCC -Wall -Werror.",
+        "impact": 3,
+        "impactInsights": "**Why it matters** \n• Smooths firmware/hardware hand-off; valuable for SoC use. \n\n**Why not higher** \n• Not every design involves memory-mapped registers.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 22,
         "maxWeight": 24
       },
       "position": {
-        "x": 850,
-        "y": 23736
+        "x": 1682,
+        "y": 23920
       },
       "style": {
         "width": 1180,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1180,
@@ -2800,19 +2838,21 @@
       "type": "requirement",
       "data": {
         "label": "Output GitHub Actions workflow YAML that builds Verilator simulation, runs Cocotb tests, and uploads coverage in ≤ 15 min CI job.",
+        "impact": 3,
+        "impactInsights": "**Why it matters** \n• Promotes best practices; lowers friction to adopt CI. \n\n**Why not higher** \n• Users can craft workflows themselves; convenience feature.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 22,
         "maxWeight": 24
       },
       "position": {
-        "x": 914,
-        "y": 24080
+        "x": 1746,
+        "y": 24372
       },
       "style": {
         "width": 1052,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1052,
@@ -2823,19 +2863,21 @@
       "type": "requirement",
       "data": {
         "label": "Generate UVM 1.2 SystemVerilog testbench skeleton instantiating DUT, basic sequence, compiling in Questa with -uvm flag.",
+        "impact": 2,
+        "impactInsights": "**Why it matters** \n• Helps advanced verification teams. \n\n**Why low** \n• Specialized; many users will ignore it.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 22,
         "maxWeight": 24
       },
       "position": {
-        "x": 950,
-        "y": 24424
+        "x": 1782,
+        "y": 24824
       },
       "style": {
         "width": 980,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 980,
@@ -2846,19 +2888,21 @@
       "type": "requirement",
       "data": {
         "label": "Each plugin must include a manifest (plugin.json) conforming to schema v1.1 containing name, version, description, author, license, entrypoints, and minAppVersion; provided CLI linter must report zero errors.",
+        "impact": 3,
+        "impactInsights": "**Why it matters** \n• Ensures plugin ecosystem stability and discoverability. \n\n**Why not higher** \n• Core app functions without plugins; impact indirect.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 19,
         "maxWeight": 24
       },
       "position": {
-        "x": 518,
-        "y": 2408
+        "x": 1430,
+        "y": 30436
       },
       "style": {
         "width": 1684,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1684,
@@ -2869,19 +2913,21 @@
       "type": "requirement",
       "data": {
         "label": "Plugin build pipeline must produce byte-identical artifacts (SHA-256 match) across two consecutive CI runs; non-determinism allowance <0.1 % file diff.",
+        "impact": 2,
+        "impactInsights": "**Why it matters** \n• Supports security and reproducibility. \n\n**Why low** \n• Failure doesn’t impede day-to-day design/simulate cycle.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 19,
         "maxWeight": 24
       },
       "position": {
-        "x": 746,
-        "y": 2752
+        "x": 1658,
+        "y": 30888
       },
       "style": {
         "width": 1228,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1228,
@@ -2892,19 +2938,21 @@
       "type": "requirement",
       "data": {
         "label": "Enabling a plugin in a 50-block reference design shall not increase simulation wall-clock time by >5 % or RAM usage by >100 MB on the baseline laptop (Intel i7-1185G7, 16 GB RAM).",
+        "impact": 3,
+        "impactInsights": "**Why it matters** \n• Guards baseline performance; poor isolation would tarnish user perception. \n\n**Why not higher** \n• Only relevant when plugins installed; core still works.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 19,
         "maxWeight": 24
       },
       "position": {
-        "x": 634,
-        "y": 3096
+        "x": 1546,
+        "y": 31340
       },
       "style": {
         "width": 1452,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1452,
@@ -2915,19 +2963,21 @@
       "type": "requirement",
       "data": {
         "label": "All user-visible strings in a plugin must be externalized via the app’s i18n API; at minimum, English and one additional locale file must be supplied; l10n linter score ≥95 %.",
+        "impact": 2,
+        "impactInsights": "**Why it matters** \n• Broadens market reach; ensures consistent UX. \n\n**Why low** \n• Does not affect functionality for English-speaking users, which may be majority early adopters.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 19,
         "maxWeight": 24
       },
       "position": {
-        "x": 650,
-        "y": 3440
+        "x": 1562,
+        "y": 31792
       },
       "style": {
         "width": 1420,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1420,
@@ -2938,19 +2988,21 @@
       "type": "requirement",
       "data": {
         "label": "Plugin distribution bundle must embed an SPDX v2.3 SBOM listing 100 % third-party dependencies; SBOM validation in CI must pass with zero critical issues.",
+        "impact": 2,
+        "impactInsights": "**Why it matters** \n• Aids security/compliance audits, important for enterprise. \n\n**Why low** \n• Indirect effect on day-to-day user value.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 19,
         "maxWeight": 24
       },
       "position": {
-        "x": 734,
-        "y": 3784
+        "x": 1646,
+        "y": 32244
       },
       "style": {
         "width": 1252,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1252,
@@ -2961,19 +3013,21 @@
       "type": "requirement",
       "data": {
         "label": "Simulate mixed Verilog/SystemVerilog and VHDL modules via VHPI bridge with 100 % signal visibility and ≤2 % performance degradation compared to Verilog-only designs",
+        "impact": 4,
+        "impactInsights": "**Why it matters** \n• Many legacy IPs in VHDL; mixed-lang ability widens adoption base. \n\n**Why not 5** \n• Some users are Verilog-only; complexity could delay releases.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 10,
         "maxWeight": 24
       },
       "position": {
-        "x": 774,
-        "y": 10664
+        "x": 1606,
+        "y": 16864
       },
       "style": {
         "width": 1332,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1332,
@@ -2984,19 +3038,21 @@
       "type": "requirement",
       "data": {
         "label": "Achieve ≥1.8× simulation speedup when increasing CPU cores from 4 to 8 on a 50 k-gate reference design",
+        "impact": 4,
+        "impactInsights": "**Why it matters** \n• Performance is a selling point vs. commercial simulators. \n• Directly impacts productivity on large designs. \n\n**Why not 5** \n• Benefit felt mainly on bigger CPUs/designs; small projects unaffected.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 10,
         "maxWeight": 24
       },
       "position": {
-        "x": 1022,
-        "y": 11008
+        "x": 1854,
+        "y": 17316
       },
       "style": {
         "width": 836,
-        "height": 144
+        "height": 288
       },
       "selected": false,
       "width": 836,
@@ -3007,19 +3063,21 @@
       "type": "requirement",
       "data": {
         "label": "Execute ≥500 parameterized Cocotb testcases in overnight batch mode, producing aggregated JUnit XML and coverage reports",
+        "impact": 3,
+        "impactInsights": "**Why it matters** \n• Supports serious verification workflows. \n\n**Why not higher** \n• Overnight regression is important but not interactive; niche for hobbyists.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 10,
         "maxWeight": 24
       },
       "position": {
-        "x": 950,
-        "y": 11352
+        "x": 1782,
+        "y": 17804
       },
       "style": {
         "width": 980,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 980,
@@ -3030,19 +3088,21 @@
       "type": "requirement",
       "data": {
         "label": "Automatically record random seeds for every Cocotb run and enable deterministic replay that produces identical pass/fail results",
+        "impact": 4,
+        "impactInsights": "**Why it matters** \n• Key for debugging and CI triage; flakiness erodes trust. \n\n**Why not 5** \n• Applies primarily to randomized tests; some designs deterministic.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 10,
         "maxWeight": 24
       },
       "position": {
-        "x": 918,
-        "y": 11696
+        "x": 1750,
+        "y": 18256
       },
       "style": {
         "width": 1044,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1044,
@@ -3053,19 +3113,21 @@
       "type": "requirement",
       "data": {
         "label": "Link SystemVerilog DPI-C models compiled with GCC/Clang into Verilator simulation and call them from Cocotb with <5 % function-call overhead",
+        "impact": 3,
+        "impactInsights": "**Why it matters** \n• Enables high-performance C models; valuable for certain IP. \n\n**Why not higher** \n• Advanced use case; average user may not need DPI-C.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 10,
         "maxWeight": 24
       },
       "position": {
-        "x": 870,
-        "y": 12040
+        "x": 1702,
+        "y": 18708
       },
       "style": {
         "width": 1140,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1140,
@@ -3076,19 +3138,21 @@
       "type": "requirement",
       "data": {
         "label": "Adapt subsequent tutorial steps based on user error history, selecting the appropriate difficulty branch within 100 ms of step completion",
+        "impact": 2,
+        "impactInsights": "**Why it matters** \n• Improves onboarding and learning retention. \n\n**Why low** \n• Core product usable without adaptive tutorials.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 4,
         "maxWeight": 24
       },
       "position": {
-        "x": 882,
-        "y": 27176
+        "x": 1714,
+        "y": 35104
       },
       "style": {
         "width": 1116,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1116,
@@ -3099,19 +3163,21 @@
       "type": "requirement",
       "data": {
         "label": "Provide complete localization of tutorial UI and content in English, Spanish, and Simplified Chinese, with language switch achievable from settings in ≤3 clicks",
+        "impact": 2,
+        "impactInsights": "**Why it matters** \n• Expands global reach. \n\n**Why low** \n• Affects only tutorial content; product still functions.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 4,
         "maxWeight": 24
       },
       "position": {
-        "x": 790,
-        "y": 27520
+        "x": 1622,
+        "y": 35556
       },
       "style": {
         "width": 1300,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1300,
@@ -3122,19 +3188,21 @@
       "type": "requirement",
       "data": {
         "label": "Ensure all tutorial controls (next, previous, hint, reset) are operable via keyboard shortcuts and meet WCAG 2.1 AA for focus indication",
+        "impact": 3,
+        "impactInsights": "**Why it matters** \n• Accessibility compliance broadens audience and avoids legal issues. \n\n**Why not higher** \n• Limited to tutorial area; main editor already keyboard-driven.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 4,
         "maxWeight": 24
       },
       "position": {
-        "x": 886,
-        "y": 27864
+        "x": 1718,
+        "y": 36008
       },
       "style": {
         "width": 1108,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1108,
@@ -3145,19 +3213,21 @@
       "type": "requirement",
       "data": {
         "label": "Generate a branded PDF certificate summarizing completed lessons within 5 s of tutorial completion",
+        "impact": 1,
+        "impactInsights": "**Why it matters** \n• Nice-to-have for educational marketing. \n\n**Why low** \n• No influence on design or simulation capability.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 4,
         "maxWeight": 24
       },
       "position": {
-        "x": 1038,
-        "y": 28208
+        "x": 1870,
+        "y": 36460
       },
       "style": {
         "width": 804,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 804,
@@ -3168,19 +3238,21 @@
       "type": "requirement",
       "data": {
         "label": "Autosave tutorial workspace and code every 30 s or on checkpoint pass and restore the last state within 3 s after application relaunch",
+        "impact": 3,
+        "impactInsights": "**Why it matters** \n• Prevents frustration during learning; consistent with diagram autosave. \n\n**Why not higher** \n• Scope limited to tutorial; core projects already covered by global autosave.",
+        "startDate": "",
+        "dueDate": "",
         "collapsed": false,
-        "impact": "",
-        "impactInsights": "",
         "weight": 4,
         "maxWeight": 24
       },
       "position": {
-        "x": 894,
-        "y": 28552
+        "x": 1726,
+        "y": 36912
       },
       "style": {
         "width": 1092,
-        "height": 144
+        "height": 252
       },
       "selected": false,
       "width": 1092,
@@ -4573,6 +4645,186 @@
       "source": "interactiveTutorialMode",
       "target": "tutorialAutosaveAndRestore",
       "selected": false
+    },
+    {
+      "id": "e_roadmapMVPQ12025_templateParamConfigGUI",
+      "source": "roadmapMVPQ12025",
+      "target": "templateParamConfigGUI"
+    },
+    {
+      "id": "e_roadmapMVPQ12025_templateLicenseMetadataSPDX",
+      "source": "roadmapMVPQ12025",
+      "target": "templateLicenseMetadataSPDX"
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_templatePortDocCoverage",
+      "source": "roadmapExportToolingQ32025",
+      "target": "templatePortDocCoverage"
+    },
+    {
+      "id": "e_roadmapMVPQ12025_templateSourceSinkBlocks20",
+      "source": "roadmapMVPQ12025",
+      "target": "templateSourceSinkBlocks20"
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_templateCiSimPipeline",
+      "source": "roadmapExportToolingQ32025",
+      "target": "templateCiSimPipeline"
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_cHeaderRegisterExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "cHeaderRegisterExport"
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_systemVerilogExportCompliance",
+      "source": "roadmapExportToolingQ32025",
+      "target": "systemVerilogExportCompliance"
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_uvmTbSkeletonExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "uvmTbSkeletonExport"
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_xdcConstraintExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "xdcConstraintExport"
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_githubActionCIWorkflowExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "githubActionCIWorkflowExport"
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_sdcTimingExport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "sdcTimingExport"
+    },
+    {
+      "id": "e_roadmapPerformanceQ22025_autoRoutingConnections",
+      "source": "roadmapPerformanceQ22025",
+      "target": "autoRoutingConnections"
+    },
+    {
+      "id": "e_roadmapMVPQ12025_autosaveRecovery",
+      "source": "roadmapMVPQ12025",
+      "target": "autosaveRecovery"
+    },
+    {
+      "id": "e_roadmapMVPQ12025_multiSelectGroupingAlignment",
+      "source": "roadmapMVPQ12025",
+      "target": "multiSelectGroupingAlignment"
+    },
+    {
+      "id": "e_roadmapMVPQ12025_hierarchicalSubdiagramSupport",
+      "source": "roadmapMVPQ12025",
+      "target": "hierarchicalSubdiagramSupport"
+    },
+    {
+      "id": "e_roadmapMVPQ12025_parameterInspectorPanel",
+      "source": "roadmapMVPQ12025",
+      "target": "parameterInspectorPanel"
+    },
+    {
+      "id": "e_roadmapMVPQ12025_parameterizedSnippets",
+      "source": "roadmapMVPQ12025",
+      "target": "parameterizedSnippets"
+    },
+    {
+      "id": "e_roadmapPerformanceQ22025_hoverDocumentation",
+      "source": "roadmapPerformanceQ22025",
+      "target": "hoverDocumentation"
+    },
+    {
+      "id": "e_roadmapMVPQ12025_waveformProbeIntegration",
+      "source": "roadmapMVPQ12025",
+      "target": "waveformProbeIntegration"
+    },
+    {
+      "id": "e_roadmapMVPQ12025_executionSandboxing",
+      "source": "roadmapMVPQ12025",
+      "target": "executionSandboxing"
+    },
+    {
+      "id": "e_roadmap_1VkqwcOIu3_contextAwareAutocomplete",
+      "source": "roadmap_1VkqwcOIu3",
+      "target": "contextAwareAutocomplete"
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_pluginInternationalizationSupport",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "pluginInternationalizationSupport"
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_pluginManifestSchema",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "pluginManifestSchema"
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_pluginPerformanceIsolation",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "pluginPerformanceIsolation"
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_pluginDeterministicBuilds",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "pluginDeterministicBuilds"
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_pluginSBOMGeneration",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "pluginSBOMGeneration"
+    },
+    {
+      "id": "e_roadmap_1VkqwcOIu3_multithreadedSimScaling50kGate",
+      "source": "roadmap_1VkqwcOIu3",
+      "target": "multithreadedSimScaling50kGate"
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_deterministicSeedRepro",
+      "source": "roadmapExportToolingQ32025",
+      "target": "deterministicSeedRepro"
+    },
+    {
+      "id": "e_roadmapPluginsMarketplaceQ42025_batchRegression500Tests",
+      "source": "roadmapPluginsMarketplaceQ42025",
+      "target": "batchRegression500Tests"
+    },
+    {
+      "id": "e_roadmapExportToolingQ32025_dpiCModelCosimSupport",
+      "source": "roadmapExportToolingQ32025",
+      "target": "dpiCModelCosimSupport"
+    },
+    {
+      "id": "e_roadmap_1VkqwcOIu3_mixedLangVhdlSupport",
+      "source": "roadmap_1VkqwcOIu3",
+      "target": "mixedLangVhdlSupport"
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_adaptiveDifficultyBranching",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "adaptiveDifficultyBranching"
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_tutorialAutosaveAndRestore",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "tutorialAutosaveAndRestore"
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_keyboardAccessibleTutorialControls",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "keyboardAccessibleTutorialControls"
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_tutorialCompletionCertificatePDF",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "tutorialCompletionCertificatePDF"
+    },
+    {
+      "id": "e_roadmapCollaborationTutorialsQ12026_tutorialLocalizationMultiLanguage",
+      "source": "roadmapCollaborationTutorialsQ12026",
+      "target": "tutorialLocalizationMultiLanguage"
     }
   ]
 }
