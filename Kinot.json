@@ -909,8 +909,8 @@
         "label": "Drag-and-Drop Block Placement with Snap-to-Grid & Port Auto-Align",
         "impact": 5,
         "impactInsights": "Core UX mechanic; directly delivers the ‘visual assembly’ promise.",
-        "startDate": "",
-        "dueDate": "",
+        "startDate": "2025-08-31",
+        "dueDate": "2026-02-15",
         "status": "In Progress",
         "collapsed": false,
         "weight": 20,
@@ -935,8 +935,8 @@
         "label": "Library of ≥100 Parameterisable Blocks Searchable in ≤200 ms",
         "impact": 4,
         "impactInsights": "Scales the visual approach; search speed ties to usability for larger catalogs.",
-        "startDate": "",
-        "dueDate": "",
+        "startDate": "2025-08-31",
+        "dueDate": "2026-01-25",
         "status": "In Progress",
         "collapsed": false,
         "weight": 20,
@@ -961,8 +961,8 @@
         "label": "Embedded Verilog or Python Code-Snippet Nodes with Syntax Highlighting & Linting",
         "impact": 5,
         "impactInsights": "Text nodes bridge custom logic into the visual graph—central to the hybrid ‘visual + code’ concept.",
-        "startDate": "2026-01-18",
-        "dueDate": "2026-03-01",
+        "startDate": "2025-08-31",
+        "dueDate": "2026-02-22",
         "status": "In Progress",
         "collapsed": false,
         "weight": 20,
@@ -2557,7 +2557,7 @@
         "impact": 4,
         "impactInsights": "**Why it matters** \n• Makes template library truly reusable; fixed-param blocks limit value. \n• Tight regeneration time keeps interactive feel. \n\n**Why not 5** \n• Users could clone & edit code manually, though far less convenient.",
         "startDate": "2025-08-23",
-        "dueDate": "2026-03-01",
+        "dueDate": "2026-02-08",
         "status": "To Do",
         "collapsed": false,
         "weight": 24,
@@ -2765,7 +2765,7 @@
         "impact": 5,
         "impactInsights": "**Why it matters** \n• Real-time signal visibility is a marquee feature similar to on-chip debug. \n• Deeply integrates code & visual sinks; drives \"simulate & inspect\" value prop. \n• Performance target ensures smooth UX.",
         "startDate": "2025-08-31",
-        "dueDate": "2026-03-01",
+        "dueDate": "2026-02-08",
         "status": "In Progress",
         "collapsed": false,
         "weight": 20,
@@ -5441,8 +5441,8 @@
       "data": {
         "label": "Update documentation and provide examples for probe streaming",
         "collapsed": false,
-        "startDate": "2026-01-18",
-        "dueDate": "2026-03-01",
+        "startDate": "2025-12-28",
+        "dueDate": "2026-02-08",
         "status": "New",
         "priority": "Medium"
       },
@@ -5465,8 +5465,8 @@
         "label": "Update user documentation for parameter editing",
         "collapsed": false,
         "status": "Ongoing",
-        "startDate": "2026-01-18",
-        "dueDate": "2026-01-25",
+        "startDate": "2025-12-28",
+        "dueDate": "2026-01-04",
         "priority": "Medium"
       },
       "position": {
@@ -5487,8 +5487,8 @@
       "data": {
         "label": "Provide example parameterized templates",
         "collapsed": false,
-        "startDate": "2026-01-25",
-        "dueDate": "2026-02-01",
+        "startDate": "2026-01-04",
+        "dueDate": "2026-01-11",
         "status": "New",
         "priority": "Medium"
       },
@@ -6755,8 +6755,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-08-31",
+        "dueDate": "2025-09-21"
       },
       "position": {
         "x": 3516,
@@ -6778,8 +6778,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-08-31",
+        "dueDate": "2025-09-07"
       },
       "position": {
         "x": 4260,
@@ -6801,8 +6801,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-07",
+        "dueDate": "2025-09-14"
       },
       "position": {
         "x": 4260,
@@ -6824,8 +6824,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-14",
+        "dueDate": "2025-09-21"
       },
       "position": {
         "x": 4244,
@@ -6847,8 +6847,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-21",
+        "dueDate": "2025-10-19"
       },
       "position": {
         "x": 3504,
@@ -6870,8 +6870,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-21",
+        "dueDate": "2025-09-28"
       },
       "position": {
         "x": 4276,
@@ -6893,8 +6893,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-28",
+        "dueDate": "2025-10-05"
       },
       "position": {
         "x": 4260,
@@ -6916,8 +6916,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-05",
+        "dueDate": "2025-10-12"
       },
       "position": {
         "x": 4240,
@@ -6939,8 +6939,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-12",
+        "dueDate": "2025-10-19"
       },
       "position": {
         "x": 4248,
@@ -6962,8 +6962,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-19",
+        "dueDate": "2025-11-09"
       },
       "position": {
         "x": 3544,
@@ -6985,8 +6985,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-19",
+        "dueDate": "2025-10-26"
       },
       "position": {
         "x": 4240,
@@ -7008,8 +7008,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-26",
+        "dueDate": "2025-11-02"
       },
       "position": {
         "x": 4208,
@@ -7031,8 +7031,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-02",
+        "dueDate": "2025-11-09"
       },
       "position": {
         "x": 4256,
@@ -7054,8 +7054,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-09",
+        "dueDate": "2025-11-30"
       },
       "position": {
         "x": 3500,
@@ -7077,8 +7077,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-09",
+        "dueDate": "2025-11-16"
       },
       "position": {
         "x": 4252,
@@ -7100,8 +7100,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-16",
+        "dueDate": "2025-11-23"
       },
       "position": {
         "x": 4288,
@@ -7123,8 +7123,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-23",
+        "dueDate": "2025-11-30"
       },
       "position": {
         "x": 4216,
@@ -7146,8 +7146,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-30",
+        "dueDate": "2025-12-14"
       },
       "position": {
         "x": 3476,
@@ -7169,8 +7169,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-30",
+        "dueDate": "2025-12-07"
       },
       "position": {
         "x": 4268,
@@ -7192,8 +7192,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-07",
+        "dueDate": "2025-12-14"
       },
       "position": {
         "x": 4260,
@@ -7215,8 +7215,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-14",
+        "dueDate": "2026-01-04"
       },
       "position": {
         "x": 3440,
@@ -7238,8 +7238,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-14",
+        "dueDate": "2025-12-21"
       },
       "position": {
         "x": 4192,
@@ -7261,8 +7261,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-21",
+        "dueDate": "2025-12-28"
       },
       "position": {
         "x": 4232,
@@ -7284,8 +7284,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-28",
+        "dueDate": "2026-01-04"
       },
       "position": {
         "x": 4216,
@@ -7307,8 +7307,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-01-04",
+        "dueDate": "2026-01-25"
       },
       "position": {
         "x": 3500,
@@ -7330,8 +7330,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-01-04",
+        "dueDate": "2026-01-11"
       },
       "position": {
         "x": 4188,
@@ -7353,8 +7353,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-01-11",
+        "dueDate": "2026-01-18"
       },
       "position": {
         "x": 4224,
@@ -7376,8 +7376,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-01-18",
+        "dueDate": "2026-01-25"
       },
       "position": {
         "x": 4224,
@@ -7399,8 +7399,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-01-25",
+        "dueDate": "2026-02-15"
       },
       "position": {
         "x": 3496,
@@ -7422,8 +7422,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-01-25",
+        "dueDate": "2026-02-01"
       },
       "position": {
         "x": 4220,
@@ -7445,8 +7445,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-02-01",
+        "dueDate": "2026-02-08"
       },
       "position": {
         "x": 4288,
@@ -7468,8 +7468,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-02-08",
+        "dueDate": "2026-02-15"
       },
       "position": {
         "x": 4228,
@@ -7491,8 +7491,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-08-31",
+        "dueDate": "2026-02-22"
       },
       "position": {
         "x": 3536,
@@ -7514,8 +7514,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-08-31",
+        "dueDate": "2025-09-07"
       },
       "position": {
         "x": 4212,
@@ -7537,8 +7537,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-02-08",
+        "dueDate": "2026-02-22"
       },
       "position": {
         "x": 4220,
@@ -7560,8 +7560,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-02-08",
+        "dueDate": "2026-02-15"
       },
       "position": {
         "x": 4940,
@@ -7583,8 +7583,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-02-15",
+        "dueDate": "2026-02-22"
       },
       "position": {
         "x": 4844,
@@ -7606,8 +7606,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-07",
+        "dueDate": "2025-09-14"
       },
       "position": {
         "x": 4180,
@@ -7629,8 +7629,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-14",
+        "dueDate": "2025-10-05"
       },
       "position": {
         "x": 3540,
@@ -7652,8 +7652,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-14",
+        "dueDate": "2025-09-21"
       },
       "position": {
         "x": 4208,
@@ -7675,8 +7675,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-21",
+        "dueDate": "2025-09-28"
       },
       "position": {
         "x": 4212,
@@ -7698,8 +7698,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-28",
+        "dueDate": "2025-10-05"
       },
       "position": {
         "x": 4192,
@@ -7721,8 +7721,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-05",
+        "dueDate": "2025-10-26"
       },
       "position": {
         "x": 3548,
@@ -7744,8 +7744,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-05",
+        "dueDate": "2025-10-12"
       },
       "position": {
         "x": 4200,
@@ -7767,8 +7767,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-12",
+        "dueDate": "2025-10-19"
       },
       "position": {
         "x": 4248,
@@ -7790,8 +7790,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-19",
+        "dueDate": "2025-10-26"
       },
       "position": {
         "x": 4216,
@@ -7813,8 +7813,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-26",
+        "dueDate": "2025-11-16"
       },
       "position": {
         "x": 3420,
@@ -7836,8 +7836,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-26",
+        "dueDate": "2025-11-02"
       },
       "position": {
         "x": 4228,
@@ -7859,8 +7859,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-02",
+        "dueDate": "2025-11-09"
       },
       "position": {
         "x": 4192,
@@ -7882,8 +7882,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-09",
+        "dueDate": "2025-11-16"
       },
       "position": {
         "x": 4200,
@@ -7905,8 +7905,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-16",
+        "dueDate": "2025-11-30"
       },
       "position": {
         "x": 3464,
@@ -7928,8 +7928,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-16",
+        "dueDate": "2025-11-23"
       },
       "position": {
         "x": 4224,
@@ -7951,8 +7951,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-23",
+        "dueDate": "2025-11-30"
       },
       "position": {
         "x": 4224,
@@ -7974,8 +7974,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-30",
+        "dueDate": "2025-12-14"
       },
       "position": {
         "x": 3504,
@@ -7997,8 +7997,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-30",
+        "dueDate": "2025-12-07"
       },
       "position": {
         "x": 4244,
@@ -8020,8 +8020,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-07",
+        "dueDate": "2025-12-14"
       },
       "position": {
         "x": 4216,
@@ -8043,8 +8043,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-14",
+        "dueDate": "2025-12-28"
       },
       "position": {
         "x": 3552,
@@ -8066,8 +8066,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-14",
+        "dueDate": "2025-12-21"
       },
       "position": {
         "x": 4212,
@@ -8089,8 +8089,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-21",
+        "dueDate": "2025-12-28"
       },
       "position": {
         "x": 4152,
@@ -8112,8 +8112,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "2026-02-01",
-        "dueDate": "2026-02-08"
+        "startDate": "2026-01-11",
+        "dueDate": "2026-01-18"
       },
       "position": {
         "x": 4240,
@@ -8135,8 +8135,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "2026-02-08",
-        "dueDate": "2026-02-15"
+        "startDate": "2026-01-18",
+        "dueDate": "2026-01-25"
       },
       "position": {
         "x": 4244,
@@ -8158,8 +8158,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "2026-02-15",
-        "dueDate": "2026-02-22"
+        "startDate": "2026-01-25",
+        "dueDate": "2026-02-01"
       },
       "position": {
         "x": 4272,
@@ -9768,7 +9768,7 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "2026-02-15",
+        "startDate": "2026-01-25",
         "dueDate": "2026-03-12"
       },
       "position": {
@@ -11470,8 +11470,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-08-31",
+        "dueDate": "2025-09-07"
       },
       "position": {
         "x": 3524,
@@ -11493,8 +11493,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-07",
+        "dueDate": "2025-09-14"
       },
       "position": {
         "x": 3512,
@@ -11516,8 +11516,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-21",
+        "dueDate": "2025-10-19"
       },
       "position": {
         "x": 3508,
@@ -11539,8 +11539,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-19",
+        "dueDate": "2025-11-23"
       },
       "position": {
         "x": 3516,
@@ -11562,8 +11562,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-23",
+        "dueDate": "2025-12-14"
       },
       "position": {
         "x": 3500,
@@ -11585,8 +11585,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-14",
+        "dueDate": "2026-01-04"
       },
       "position": {
         "x": 3472,
@@ -11608,8 +11608,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-14",
+        "dueDate": "2025-09-21"
       },
       "position": {
         "x": 3512,
@@ -11631,8 +11631,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-01-04",
+        "dueDate": "2026-01-25"
       },
       "position": {
         "x": 3496,
@@ -11654,8 +11654,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-21",
+        "dueDate": "2025-09-28"
       },
       "position": {
         "x": 4232,
@@ -11677,8 +11677,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-09-28",
+        "dueDate": "2025-10-05"
       },
       "position": {
         "x": 4300,
@@ -11700,8 +11700,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-05",
+        "dueDate": "2025-10-12"
       },
       "position": {
         "x": 4228,
@@ -11723,8 +11723,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-12",
+        "dueDate": "2025-10-19"
       },
       "position": {
         "x": 4224,
@@ -11746,8 +11746,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-19",
+        "dueDate": "2025-10-26"
       },
       "position": {
         "x": 4284,
@@ -11769,8 +11769,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-10-26",
+        "dueDate": "2025-11-02"
       },
       "position": {
         "x": 4268,
@@ -11792,8 +11792,8 @@
         "collapsed": false,
         "status": "Ongoing",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-02",
+        "dueDate": "2025-11-09"
       },
       "position": {
         "x": 4292,
@@ -11815,8 +11815,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-09",
+        "dueDate": "2025-11-16"
       },
       "position": {
         "x": 4220,
@@ -11838,8 +11838,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-16",
+        "dueDate": "2025-11-23"
       },
       "position": {
         "x": 4300,
@@ -11861,8 +11861,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-23",
+        "dueDate": "2025-11-30"
       },
       "position": {
         "x": 4240,
@@ -11884,8 +11884,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-11-30",
+        "dueDate": "2025-12-07"
       },
       "position": {
         "x": 4208,
@@ -11907,8 +11907,8 @@
         "collapsed": false,
         "status": "Solved",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-07",
+        "dueDate": "2025-12-14"
       },
       "position": {
         "x": 4244,
@@ -11930,8 +11930,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-14",
+        "dueDate": "2025-12-21"
       },
       "position": {
         "x": 4216,
@@ -11953,8 +11953,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-21",
+        "dueDate": "2025-12-28"
       },
       "position": {
         "x": 4256,
@@ -11976,8 +11976,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2025-12-28",
+        "dueDate": "2026-01-04"
       },
       "position": {
         "x": 4260,
@@ -11999,8 +11999,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-01-04",
+        "dueDate": "2026-01-11"
       },
       "position": {
         "x": 4216,
@@ -12022,8 +12022,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-01-11",
+        "dueDate": "2026-01-18"
       },
       "position": {
         "x": 4280,
@@ -12045,8 +12045,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "",
-        "dueDate": ""
+        "startDate": "2026-01-18",
+        "dueDate": "2026-01-25"
       },
       "position": {
         "x": 4304,
@@ -15564,8 +15564,8 @@
         "collapsed": false,
         "status": "New",
         "priority": "Medium",
-        "startDate": "2026-02-22",
-        "dueDate": "2026-03-01"
+        "startDate": "2026-02-01",
+        "dueDate": "2026-02-08"
       },
       "position": {
         "x": 4120,
@@ -24353,8 +24353,8 @@
   ],
   "ui": {
     "view": {
-      "tableMode": false,
-      "timelineMode": true,
+      "tableMode": true,
+      "timelineMode": false,
       "pathOnlyMode": false,
       "leftPanelVisible": true,
       "showEdgeLabels": true
@@ -24374,8 +24374,8 @@
       "groupSort": "weight-desc",
       "expandedGroups": {
         "roadmap:roadmapMVPQ12025|applicationdriver:prototypeTemplates": false,
-        "roadmap:roadmapMVPQ12025|applicationdriver:visualBlockEditor": false,
-        "roadmap:roadmapMVPQ12025|applicationdriver:codeSnippetNodes": true
+        "roadmap:roadmapMVPQ12025|applicationdriver:visualBlockEditor": true,
+        "roadmap:roadmapMVPQ12025|applicationdriver:codeSnippetNodes": false
       },
       "higherGroupBy": "roadmap",
       "higherGroupSort": "alpha-asc",
@@ -24512,11 +24512,11 @@
       "zoomPct": 200,
       "expandedHigherGroups": {
         "roadmapMVPQ12025": true,
-        "roadmapPerformanceQ22025": true,
-        "roadmapCollaborationTutorialsQ12026": true,
-        "roadmapExportToolingQ32025": true,
-        "roadmap_1VkqwcOIu3": true,
-        "roadmapPluginsMarketplaceQ42025": true
+        "roadmapPerformanceQ22025": false,
+        "roadmapCollaborationTutorialsQ12026": false,
+        "roadmapExportToolingQ32025": false,
+        "roadmap_1VkqwcOIu3": false,
+        "roadmapPluginsMarketplaceQ42025": false
       },
       "expandedGroups": {
         "roadmapMVPQ12025|prototypeTemplates": false,
@@ -24540,17 +24540,773 @@
         "roadmapExportToolingQ32025|integratedCocotbVerilatorSim": false
       },
       "expandedRows": {
+        "templateLibrary50Blocks": false,
+        "templateDualRepresentationSync": false,
+        "templateHighCoverageTests": false,
+        "templateSemanticVersioning": false,
+        "templateSearchFilterSub100ms": false,
+        "templateUserCloneSave": false,
+        "templateAutoDocumentation": false,
+        "templateFpgaSynthesisPass": false,
+        "dragDropSnapGrid": false,
+        "searchableBlockLibrary": false,
+        "codeSnippetNodeSupport": false,
+        "realTimeConnectionValidation": false,
+        "gitVersionControlExport": false,
+        "verilogNetlistExport": false,
+        "undoRedoHistory": false,
+        "performanceZoomPan1000Nodes": false,
         "codeSnippetLanguageSupport": false,
         "codeEditorSyntaxHighlighting": false,
         "realtimeLinting": false,
         "automaticPortInference": false,
         "simulationIntegration": false,
+        "snippetVersioning": false,
+        "reusableSnippetLibrary": false,
+        "cocotbIntegrationSupport": false,
+        "verilatorSVCompileCoverage": false,
+        "simulationPerf10kGate1kCps": false,
+        "waveformExportVcdFsdb": false,
+        "uiInteractiveDebugging": false,
+        "headlessCiCli": false,
+        "verilogLintExport": false,
+        "vhdlExportCompliance": false,
+        "ipxactGeneration": false,
+        "vivadoProjectExport": false,
+        "quartusProjectExport": false,
+        "synopsysDCScriptExport": false,
+        "cocotbTestbenchExport": false,
+        "makefileExport": false,
+        "dockerCIExport": false,
+        "rtlCoverageReportExport": false,
+        "pluginApiVersioning": false,
+        "sandboxedPluginExecution": false,
+        "runtimePluginLoading": false,
+        "pluginSdkDocumentation": false,
+        "pluginMarketplaceUI": false,
+        "pluginCompatibilityCITesting": false,
+        "licensingComplianceChecker": false,
+        "versionControlledRepository": false,
+        "granularAccessPermissions": false,
+        "searchableIpLibrary": false,
+        "publishIpBlocks": false,
+        "realTimeCommenting": false,
+        "visualMergeConflictResolution": false,
+        "ipAttributionReport": false,
+        "pinnedIpVersionSimulation": false,
+        "guidedWalkthroughHighlight": false,
+        "builtInTutorialLibrary": false,
+        "persistentProgressTracking": false,
+        "autoSimulationFeedback": false,
+        "inlineCodeChallengeValidation": false,
+        "contextSensitiveHintSystem": false,
+        "tutorialWorkspaceResetUndo": false,
+        "multiSelectGroupingAlignment": false,
+        "hierarchicalSubdiagramSupport": false,
+        "parameterInspectorPanel": false,
+        "autoRoutingConnections": false,
+        "autosaveRecovery": false,
+        "templateParamConfigGUI": false,
+        "templateLicenseMetadataSPDX": false,
+        "templateCiSimPipeline": false,
+        "templatePortDocCoverage": false,
+        "templateSourceSinkBlocks20": false,
+        "contextAwareAutocomplete": false,
         "executionSandboxing": false,
+        "hoverDocumentation": false,
         "waveformProbeIntegration": false,
-        "parameterizedSnippets": false
+        "parameterizedSnippets": false,
+        "systemVerilogExportCompliance": false,
+        "xdcConstraintExport": false,
+        "sdcTimingExport": false,
+        "cHeaderRegisterExport": false,
+        "githubActionCIWorkflowExport": false,
+        "uvmTbSkeletonExport": false,
+        "pluginManifestSchema": false,
+        "pluginDeterministicBuilds": false,
+        "pluginPerformanceIsolation": false,
+        "pluginInternationalizationSupport": false,
+        "pluginSBOMGeneration": false,
+        "mixedLangVhdlSupport": false,
+        "multithreadedSimScaling50kGate": false,
+        "batchRegression500Tests": false,
+        "deterministicSeedRepro": false,
+        "dpiCModelCosimSupport": false,
+        "adaptiveDifficultyBranching": false,
+        "tutorialLocalizationMultiLanguage": false,
+        "keyboardAccessibleTutorialControls": false,
+        "tutorialCompletionCertificatePDF": false,
+        "tutorialAutosaveAndRestore": false,
+        "planBlockLibrary": false,
+        "designBlockInterfaces": false,
+        "implementHardwareBlocks": false,
+        "createEditorNodeDefinitions": false,
+        "integrateSimulationFramework": false,
+        "validateAndTestBlocks": false,
+        "documentBlocks": false,
+        "packageAndReleaseLibrary": false,
+        "setupCICDPipeline": false,
+        "collectUserFeedback": false,
+        "researchCommonBlocks": false,
+        "prioritizeBlockList": false,
+        "defineIOPorts": false,
+        "defineParamSchema": false,
+        "codeVerilogBlocks": false,
+        "codePythonModels": false,
+        "createNodeIcons": false,
+        "mapPortsToNode": false,
+        "buildConfigUI": false,
+        "writeCocotbTestbenches": false,
+        "ensureVerilatorCompatibility": false,
+        "unitTestBlocks": false,
+        "performanceBenchmarking": false,
+        "writeUsageExamples": false,
+        "generateAPIDocumentation": false,
+        "bundleInstallableModule": false,
+        "versionAndPublish": false,
+        "configureAutoBuild": false,
+        "configureAutoTest": false,
+        "gatherBetaFeedback": false,
+        "iterateImprovements": false,
+        "taskDefineSyncArchitecture": false,
+        "taskVisualToIR": false,
+        "taskIRToCodeGenerator": false,
+        "taskCodeToIR": false,
+        "taskIRToVisual": false,
+        "taskRealtimeSync": false,
+        "taskStatusUI": false,
+        "taskPerformanceOpt": false,
+        "taskAutomatedTesting": false,
+        "taskDocumentation": false,
+        "taskDefineIR": false,
+        "taskMappingIRBlocks": false,
+        "taskDefineCodeGenRules": false,
+        "taskCaptureBlockEvents": false,
+        "taskTransformBlockToIR": false,
+        "taskEmitCodeUpdate": false,
+        "taskGenerateVerilog": false,
+        "taskGeneratePython": false,
+        "taskFormatCodeSnippets": false,
+        "taskVerilogParserIR": false,
+        "taskPythonParserIR": false,
+        "taskHandleSyntaxErrors": false,
+        "taskComputeGraphDiff": false,
+        "taskUpdateVisualBlocks": false,
+        "taskDebounceUpdate": false,
+        "taskConflictResolution": false,
+        "taskDisplaySyncStatus": false,
+        "taskBenchmarkLargeDesigns": false,
+        "taskOptimizeAlgorithms": false,
+        "taskUnitTestsConverters": false,
+        "taskIntegrationTests": false,
+        "taskWriteUserGuide": false,
+        "taskCreateSampleTemplates": false,
+        "taskDevDocs": false,
+        "taskUserDocs": false,
+        "paramTemplatesPreparation": false,
+        "parameterUIImplementation": false,
+        "regenerationEngineImplementation": false,
+        "blockUpdateRendering": false,
+        "performanceAssurance": false,
+        "automatedTestingQA": false,
+        "documentationExamples": false,
+        "paramSchemaDefinition": false,
+        "templatePlaceholderInsertion": false,
+        "parameterValidationRules": false,
+        "dynamicFormGenerator": false,
+        "uiValidationFeedback": false,
+        "stateBindingImplementation": false,
+        "changeDetectionDebounce": false,
+        "generateHDL": false,
+        "validateHDL": false,
+        "writeHDLMemory": false,
+        "replaceHDLInModel": false,
+        "updateBlockMetadata": false,
+        "reactFlowRerender": false,
+        "profileLatency": false,
+        "implementCaching": false,
+        "parallelizeTasks": false,
+        "automatedPerfTesting": false,
+        "unitTests": false,
+        "integrationTests": false,
+        "regressionPerformanceTests": false,
+        "updateUserDocs": false,
+        "createExampleTemplates": false,
+        "provideSampleVerilogSnippet": false,
+        "provideSamplePythonSnippet": false,
+        "updateUserManual": false,
+        "exampleProjectTutorial": false,
+        "taskT1": false,
+        "taskT2": false,
+        "taskT3": false,
+        "taskT4": false,
+        "taskT5": false,
+        "taskT6": false,
+        "taskT7": false,
+        "taskT1_1": false,
+        "taskT1_2": false,
+        "taskT1_3": false,
+        "taskT1_4": false,
+        "taskT2_1": false,
+        "taskT2_2": false,
+        "taskT2_3": false,
+        "taskT3_1": false,
+        "taskT3_2": false,
+        "taskT3_3": false,
+        "taskT3_4": false,
+        "taskT3_5": false,
+        "taskT3_6": false,
+        "taskT3_7": false,
+        "taskT3_8": false,
+        "taskT3_9": false,
+        "taskT3_10": false,
+        "task_ZbkuAd8AOc": false,
+        "taskT3_1_1": false,
+        "taskT3_1_2": false,
+        "taskT3_2_1": false,
+        "taskT3_2_2": false,
+        "taskT4_1": false,
+        "taskT4_2": false,
+        "taskT4_3": false,
+        "taskT4_4": false,
+        "taskT4_5": false,
+        "taskT4_6": false,
+        "taskT4_7": false,
+        "taskT4_8": false,
+        "taskT4_9": false,
+        "taskT4_10": false,
+        "taskT4_1_1": false,
+        "taskT4_1_2": false,
+        "taskT4_2_1": false,
+        "taskT4_2_2": false,
+        "taskT5_1": false,
+        "taskT5_2": false,
+        "taskT5_3": false,
+        "taskT5_4": false,
+        "taskT6_1": false,
+        "taskT6_2": false,
+        "taskT6_3": false,
+        "taskT6_4": false,
+        "taskT7_1": false,
+        "taskT7_2": false,
+        "taskT7_3": false,
+        "dragUXDesign": false,
+        "implementDragHandler": false,
+        "snapToGridLogic": false,
+        "portAutoAlignAlgo": false,
+        "dynamicConnectionPreview": false,
+        "placementTesting": false,
+        "optimizePerformanceLargeDiagrams": false,
+        "updateDocsTutorial": false,
+        "dragUXWireframes": false,
+        "dragUXFeedback": false,
+        "dragUXSpec": false,
+        "captureEvents": false,
+        "updateStatePos": false,
+        "enforceBounds": false,
+        "groupDrag": false,
+        "gridConfig": false,
+        "calcNearestGrid": false,
+        "gridVisualization": false,
+        "detectAdjacentPorts": false,
+        "autoRoutePreview": false,
+        "overrideToggle": false,
+        "highlightTargets": false,
+        "drawTempLines": false,
+        "unitTestsGrid": false,
+        "uiTestsDrag": false,
+        "regressionAutoAlign": false,
+        "throttleDebounce": false,
+        "useRAF": false,
+        "profileBenchmark": false,
+        "addUserGuide": false,
+        "recordDemo": false,
+        "updateAPIRef": false,
+        "designCodeSnippetNodeUIUX": false,
+        "implementSyntaxHighlighting": false,
+        "implementRealtimeLinting": false,
+        "implementCompilationSimulationIntegration": false,
+        "implementDragDropCreationConfiguration": false,
+        "persistCodeSnippetsProjectModel": false,
+        "unitIntegrationTesting": false,
+        "defineNodePropertiesMetadata": false,
+        "createCodeEditorComponentIntegration": false,
+        "implementNodeConnectors": false,
+        "integrateMonacoEditor": false,
+        "configureLanguageModes": false,
+        "implementVerilogSyntaxHighlighting": false,
+        "implementPythonSyntaxHighlighting": false,
+        "testHighlightingPerformance": false,
+        "selectLintingEngines": false,
+        "integrateLintingWebWorkers": false,
+        "mapLintingDiagnostics": false,
+        "generateTemporaryFiles": false,
+        "verilogSnippetToVerilatorFlow": false,
+        "wrapPythonSnippetsCocotbHarness": false,
+        "addPaletteEntryCodeSnippetNode": false,
+        "supportOnCanvasEdit": false,
+        "serializeSnippets": false,
+        "loadReconstructNode": false,
+        "writeJestUnitTestsEditor": false,
+        "createEndToEndCypressTests": false,
+        "signalMetadataPropagationEngine": false,
+        "compatibilityRulesLibrary": false,
+        "editorValidationTriggerIntegration": false,
+        "validationPerformanceOptimization": false,
+        "errorHighlightingUI": false,
+        "validationTesting": false,
+        "validationTelemetryLogging": false,
+        "validationDocumentation": false,
+        "signalMetadataPropagationEngineDefineSchema": false,
+        "signalMetadataPropagationEngineExtendDataModel": false,
+        "signalMetadataPropagationEngineDevelopAlgorithm": false,
+        "signalMetadataPropagationEngineImplementCaching": false,
+        "compatibilityRulesGatherRequirements": false,
+        "compatibilityRulesEncodeRules": false,
+        "compatibilityRulesImplementEngine": false,
+        "compatibilityRulesUserDefinedMechanism": false,
+        "editorTriggerHookEvents": false,
+        "editorTriggerDebounceEvents": false,
+        "editorTriggerInvokeValidation": false,
+        "performanceProfileWorkflow": false,
+        "performanceParallelizeEvaluation": false,
+        "performanceIncrementalValidation": false,
+        "performanceSetBudgets": false,
+        "uiDefineVisualizationPatterns": false,
+        "uiImplementErrorListPanel": false,
+        "uiEnsureAccessibility": false,
+        "uiAddClickNavigation": false,
+        "testingWriteUnitTests": false,
+        "testingCreateSampleGraphs": false,
+        "testingAutomateRegression": false,
+        "telemetryLogValidationDuration": false,
+        "telemetrySendAnonymized": false,
+        "telemetryCreateDashboard": false,
+        "documentationUpdateUserGuide": false,
+        "documentationProvideAPIDocumentation": false,
+        "documentationCreateTutorials": false,
+        "designSubdiagramDataModel": false,
+        "implementSubdiagramCreation": false,
+        "implementCollapseExpandUI": false,
+        "optimizePerformance100Blocks": false,
+        "preserveNetlistHierarchy": false,
+        "writeAutomatedTests": false,
+        "updateSerializationSupport": false,
+        "updateDocumentationAndTutorials": false,
+        "defineJsonSchemaChanges": false,
+        "implementFrontendDataStructures": false,
+        "updateBackendSimulationMetadata": false,
+        "implementMultiSelect": false,
+        "groupSelectionIntoSubdiagram": false,
+        "generateWrapperBlock": false,
+        "ensureUndoRedoIntegration": false,
+        "implementCollapseExpandTrigger": false,
+        "animateCollapseExpand": false,
+        "maintainLayoutPositions": false,
+        "updateMinimapViewport": false,
+        "benchmarkBaseline100Blocks": false,
+        "implementIncrementalRendering": false,
+        "memoizeNodeRendering": false,
+        "optimizeEventDispatching": false,
+        "verifyOneSecondPerformance": false,
+        "generateHierarchicalIdentifiers": false,
+        "updateNetlistExporterHierarchy": false,
+        "verifyHierarchyConsistencyTests": false,
+        "unitTestsDataModel": false,
+        "integrationTestsUIOperations": false,
+        "performanceTestScript": false,
+        "ciPipelineIntegration": false,
+        "updateSaveFileVersioning": false,
+        "implementDesignMigration": false,
+        "verifyLoadSaveRoundtrip": false,
+        "createTutorialVideo": false,
+        "updateApiDocs": false,
+        "optimizePanelInitialization": false,
+        "implementLazyLoadingStrategy": false,
+        "prefetchAndCacheParameterMetadata": false,
+        "efficientStateManagementForPanel": false,
+        "debouncedAndBatchedParameterUpdates": false,
+        "incrementalSimulationUpdatePath": false,
+        "performanceProfilingAndMonitoring": false,
+        "automatedTimingTests": false,
+        "codeReviewAndRefactoringForPerformance": false,
+        "continuousPerformanceRegressionPipeline": false,
+        "profilePanelLoadTime": false,
+        "removeRedundantReRenders": false,
+        "memoizeStaticSubcomponents": false,
+        "optimizeAssetBundling": false,
+        "identifyHeavyDependencies": false,
+        "convertToDynamicImports": false,
+        "implementSkeletonLoadingUI": false,
+        "designMetadataCacheStructure": false,
+        "triggerMetadataFetchOnProjectLoad": false,
+        "implementCacheInvalidationPolicy": false,
+        "evaluateStateLibraryOptions": false,
+        "implementShallowComparisonSelectors": false,
+        "writeStateUnitTests": false,
+        "addDebounceToUserInputHandlers": false,
+        "batchMultipleParameterChanges": false,
+        "provideImmediateUIFeedbackDuringDebounce": false,
+        "defineAPILiveParameterInjection": false,
+        "implementDifferentialConfigurationGeneration": false,
+        "implementFallbackFullRecompilePath": false,
+        "integrateReactProfiler": false,
+        "addRuntimePerformanceMetricsLogging": false,
+        "documentOptimizationFindings": false,
+        "unitTestPanelOpenTime": false,
+        "integrationTestParameterChangeLatency": false,
+        "setupCIFailureThresholds": false,
+        "peerReviewCriticalPaths": false,
+        "refactorSpaghettiCode": false,
+        "removeDeadCode": false,
+        "addPerformanceBenchmarksToCI": false,
+        "alertOnPerformanceRegression": false,
+        "taskAutosaveArch": false,
+        "taskAutosaveTimer": false,
+        "taskSerializeDiagram": false,
+        "taskWriteToDisk": false,
+        "taskSessionRecoveryLoader": false,
+        "taskOptimizeLoading": false,
+        "taskTests": false,
+        "taskUIFeedback": false,
+        "taskChangeDetection": false,
+        "taskDiagramSerializationFormat": false,
+        "taskStorageStrategy": false,
+        "taskTimerResetOnManualSave": false,
+        "taskCollectDiagramState": false,
+        "taskCollectCodeSnippets": false,
+        "taskCollectSimConfig": false,
+        "taskCompressJSON": false,
+        "taskWriteTempFile": false,
+        "taskMoveToAutosaveFile": false,
+        "taskDetectAutosaveFile": false,
+        "taskRecoveryPrompt": false,
+        "taskLoadDiagramWithin3s": false,
+        "taskLazyLoadAssets": false,
+        "taskBinaryCompression": false,
+        "taskIntervalAccuracyTest": false,
+        "taskLoadingTimeTest": false,
+        "taskDataIntegrityTest": false,
+        "taskSaveStatusIndicator": false,
+        "taskHandleWriteErrors": false,
+        "taskLogFailures": false,
+        "defineBlockLibraryArchitecture": false,
+        "implementParameterizationFramework": false,
+        "buildMetadataIndexAndSearchBackend": false,
+        "developParameterisableBlocks": false,
+        "integrateLibraryWithEditorUI": false,
+        "establishCICDValidationPipeline": false,
+        "writeDocumentation": false,
+        "conductPerformanceAndAcceptanceTesting": false,
+        "chooseDataStoreIndexingStrategy": false,
+        "implementSearchAPI": false,
+        "optimizeSearchPerformance": false,
+        "implementSearchUnitTests": false,
+        "designSourceBlocks": false,
+        "designProcessingBlocks": false,
+        "designSinkBlocks": false,
+        "writeBlockMetadataAndParameters": false,
+        "unitTestEachBlock": false,
+        "createSearchablePaletteComponent": false,
+        "implementDragAndDropFromSearchResults": false,
+        "implementParameterEditingDialog": false,
+        "configureCIPipeline": false,
+        "addAutomatedBuildLintJobs": false,
+        "addAutomatedSimulationTests": false,
+        "measureSearchLatency": false,
+        "gatherBetaUserFeedback": false,
+        "fixReportedIssues": false,
+        "tUndoArch": false,
+        "tImplementRecordingMiddleware": false,
+        "tImplementStacks": false,
+        "tUndoExecLogic": false,
+        "tRedoExecLogic": false,
+        "tKeyboardShortcuts": false,
+        "tToolbarButtons": false,
+        "tPersistHistory": false,
+        "tUnitTests": false,
+        "tPerformanceOpt": false,
+        "tDocumentation": false,
+        "tDefineActionAbstraction": false,
+        "tDetermineStateStrategy": false,
+        "tSpecifyStackSize": false,
+        "tDefineSerialization": false,
+        "tIntegrateReactFlowEvents": false,
+        "tCaptureCodeEditorChanges": false,
+        "tRecordSimulationParamChanges": false,
+        "tStackPushPop": false,
+        "tStackSizeLimit": false,
+        "tUndoReverseAction": false,
+        "tUndoUpdateUI": false,
+        "tHandleCompositeActions": false,
+        "tRedoReapplyAction": false,
+        "tRedoUpdateUI": false,
+        "tSerializeHistory": false,
+        "tRestoreHistory": false,
+        "tTestActionTypes": false,
+        "tTest50Actions": false,
+        "tTestStackEviction": false,
+        "tDebounceActions": false,
+        "tMemoryProfiling": false,
+        "tDevDocs": false,
+        "tUserDocs": false,
+        "implementMultiSelectMechanics": false,
+        "implementGroupingFeature": false,
+        "implementAlignDistributeOperations": false,
+        "integrateUIControlsShortcuts": false,
+        "integrateUndoRedoSupport": false,
+        "meetPerformanceTarget50Blocks": false,
+        "implementAutomatedTests": false,
+        "updateDocsTutorials": false,
+        "addBoxSelectionDragHandler": false,
+        "addModifierClickMultiSelectLogic": false,
+        "maintainSelectionStateStore": false,
+        "renderSelectionVisualFeedback": false,
+        "designGroupDataModel": false,
+        "implementGroupCreationCommand": false,
+        "implementUngroupCommand": false,
+        "persistGroupInSerialization": false,
+        "implementAlignFunctions": false,
+        "implementDistributeFunctions": false,
+        "snapAtomicPositionUpdate": false,
+        "addToolbarButtons": false,
+        "addContextMenuEntries": false,
+        "addKeyboardShortcuts": false,
+        "recordSelectionHistory": false,
+        "recordTransformHistory": false,
+        "profileAlgorithms": false,
+        "optimizeDataStructures": false,
+        "debounceUIRenders": false,
+        "unitTestsSelectionLogic": false,
+        "unitTestsGroupModel": false,
+        "integrationPerformanceTest": false,
+        "defineCodeSnippetNodeArchitecture": false,
+        "implementCodeEditorIntegration": false,
+        "implementCodeExecutionBackend": false,
+        "implementUIandUX": false,
+        "implementSecuritySandboxing": false,
+        "developTestingSuiteForCodeSnippetNode": false,
+        "writeUserDocumentation": false,
+        "updateCIPipelineAndPackaging": false,
+        "defineDataModelForCodeSnippet": false,
+        "defineSimulationInterface": false,
+        "addVerilogSyntaxHighlighting": false,
+        "addPythonSyntaxHighlighting": false,
+        "implementLanguageSelectionToggle": false,
+        "setupVerilogCompilationWithVerilator": false,
+        "setupPythonExecutionEnvironment": false,
+        "integrateCocotbForMixedLanguageSimulation": false,
+        "generateVerilogSimulationHarness": false,
+        "implementCompiledModuleCaching": false,
+        "isolatePythonInterpreter": false,
+        "createSignalIOMappingBetweenPythonAndSimulation": false,
+        "buildNodeInsertionTooling": false,
+        "buildConfigurationPanel": false,
+        "displayRuntimeResultsConsoleAndWaveforms": false,
+        "restrictFileSystemAccess": false,
+        "limitRuntimeResources": false,
+        "writeUnitTestsForVerilogSnippets": false,
+        "writeUnitTestsForPythonSnippets": false,
+        "writeIntegrationTestsForCodeSnippetNode": false,
+        "createExampleCodeSnippets": false,
+        "updateCIPipelineWithVerilatorAndPythonRuntimes": false,
+        "implementCrossPlatformPackaging": false,
+        "environmentSetup": false,
+        "buildPipelineImplementation": false,
+        "testbenchGeneration": false,
+        "pipelineIntegrationApp": false,
+        "performanceOptimization": false,
+        "testingValidation": false,
+        "documentationPreparation": false,
+        "selectToolVersions": false,
+        "configureEnvVariables": false,
+        "ciToolchainVerification": false,
+        "snippetParsingWrapperGen": false,
+        "makefileGeneration": false,
+        "verilatorInvocationOptimization": false,
+        "incrementalBuildCache": false,
+        "testbenchTemplateAutogen": false,
+        "userStimuliAPI": false,
+        "cocotbIntegration": false,
+        "asyncBackendService": false,
+        "uiProgressReporting": false,
+        "logCaptureDisplay": false,
+        "errorHandlingLogging": false,
+        "benchmarkBaseline": false,
+        "profilePipeline": false,
+        "compileOptimizationFlags": false,
+        "optimizePythonTestbench": false,
+        "regressionTestSet": false,
+        "ciTimingEnforcement": false,
+        "functionalOutputVerification": false,
+        "writeUserDocs": false,
+        "troubleshootingGuide": false,
+        "designProbeFlaggingUI": false,
+        "extendGraphSchema": false,
+        "simulationDataCapture": false,
+        "streamingPipeline": false,
+        "upgradeSinkBlocks": false,
+        "performanceScalability": false,
+        "automatedTesting": false,
+        "probeToggleContextMenu": false,
+        "probeIconDisplay": false,
+        "probeStateManagement": false,
+        "persistProbeFlags": false,
+        "cocotbSignalExtraction": false,
+        "verilatorWaveDump": false,
+        "samplingBuffer": false,
+        "defineMessageFormat": false,
+        "websocketServer": false,
+        "clientReceiver": false,
+        "flowControl": false,
+        "dynamicSubscriptionAPI": false,
+        "gpuRenderingOptimization": false,
+        "fftUpdate": false,
+        "benchmarkStreaming": false,
+        "adaptiveDownsampling": false,
+        "uiPerformanceMetrics": false,
+        "unitTestsProbeUI": false,
+        "integrationTestStreaming": false,
+        "performanceRegressionTest": false,
+        "taskHighlightLibrary": false,
+        "taskBracketMatching": false,
+        "taskCodeFolding": false,
+        "taskLatencyOptimization": false,
+        "taskEditorIntegration": false,
+        "taskTestingSuite": false,
+        "taskDocumentationFeedback": false,
+        "taskHighlightLibraryEvaluate": false,
+        "taskHighlightLibraryImplementVerilog": false,
+        "taskHighlightLibraryImplementPython": false,
+        "taskBracketParser": false,
+        "taskBracketRender": false,
+        "taskBracketNestedHandling": false,
+        "taskFoldRegionsDefinition": false,
+        "taskFoldToggleUI": false,
+        "taskFoldUpdateOnEdit": false,
+        "taskLatencyMetrics": false,
+        "taskIncrementalParsing": false,
+        "taskOptimizeRenderingPipeline": false,
+        "taskProfileHotspots": false,
+        "taskEmbedEditorComponent": false,
+        "taskSyncState": false,
+        "taskUndoRedo": false,
+        "taskResourceCleanup": false,
+        "taskUnitTests": false,
+        "taskPerformanceTests": false,
+        "taskCollectFeedback": false,
+        "taskIterateFeedback": false,
+        "task_select_linters": false,
+        "task_change_detection": false,
+        "task_background_execution": false,
+        "task_performance_optimization": false,
+        "task_ui_diagnostics": false,
+        "task_testing_validation": false,
+        "task_user_preferences": false,
+        "task_select_linters_evaluate": false,
+        "task_select_linters_wrapper": false,
+        "task_change_detection_onchange": false,
+        "task_change_detection_debounce": false,
+        "task_background_execution_service": false,
+        "task_background_execution_messaging": false,
+        "task_performance_optimization_incremental": false,
+        "task_performance_optimization_preload": false,
+        "task_ui_diagnostics_mapping": false,
+        "task_ui_diagnostics_rendering": false,
+        "task_ui_diagnostics_hover": false,
+        "task_testing_validation_suite": false,
+        "task_testing_validation_measure": false,
+        "task_testing_validation_telemetry": false,
+        "task_user_preferences_toggle": false,
+        "task_user_preferences_persist": false,
+        "designPortInferenceAlgorithm": false,
+        "implementCodeSnippetParser": false,
+        "integrateParserWithNodeModel": false,
+        "generateNodePins": false,
+        "implementSaveEventListener": false,
+        "ensureSubSecondPerformance": false,
+        "addErrorHandlingAndFallback": false,
+        "writeUnitTests": false,
+        "conductCodeReviewAndDocs": false,
+        "parseVerilogDeclarations": false,
+        "parsePythonHDLDeclarations": false,
+        "detectPortDirection": false,
+        "extractSignalWidth": false,
+        "mapPortsToPins": false,
+        "assignPinAttributes": false,
+        "updateUIWithPins": false,
+        "triggerInferenceOnSave": false,
+        "profileInferencePipeline": false,
+        "optimizeAlgorithmPerformance": false,
+        "detectAmbiguousDeclarations": false,
+        "showPortInferenceWarnings": false,
+        "testParserAccuracy": false,
+        "testPerformanceUnder1s": false,
+        "sandboxTechnologySelection": false,
+        "setupSandboxEnvironment": false,
+        "implementFilesystemRestrictions": false,
+        "enforceCpuTimeLimit": false,
+        "blockNetworkCalls": false,
+        "integrateSandboxPipeline": false,
+        "automatedSandboxTesting": false,
+        "writeSandboxDocumentation": false,
+        "evaluateSandboxLibraries": false,
+        "evaluateContainerOptions": false,
+        "documentSandboxDecision": false,
+        "createMinimalPythonEnvironment": false,
+        "configureChrootOrContainer": false,
+        "installRequiredDependencies": false,
+        "mountProjectDirectory": false,
+        "setReadOnlyOtherPaths": false,
+        "testFilesystemAccessControl": false,
+        "applyResourceLimits": false,
+        "implementTimeoutWatcher": false,
+        "testCpuLimit": false,
+        "applySeccompSocketFilter": false,
+        "patchPythonSocketModule": false,
+        "testNetworkBlock": false,
+        "exposeSandboxExecutionAPI": false,
+        "updateCodeSnippetRunner": false,
+        "handleSandboxErrors": false,
+        "addCIJobsForSandbox": false,
+        "regressionTestsForSecurity": false,
+        "writeDeveloperGuidelines": false,
+        "writeUserGuideSections": false,
+        "designParameterModel": false,
+        "developPropertyPanelUI": false,
+        "implementCodeRegenerationEngine": false,
+        "updateGraphAndSimulationEnvironment": false,
+        "performanceOptimizationAndBenchmarking": false,
+        "testingAndValidation": false,
+        "documentationAndTutorialUpdates": false,
+        "undoRedoSupportForParameterChanges": false,
+        "defineParameterMetadataSchema": false,
+        "updateSnippetNodeDefinition": false,
+        "persistParametersProjectFile": false,
+        "createUIParameterList": false,
+        "implementAddEditDeleteParameterDialogs": false,
+        "bindUIToParameterDataModel": false,
+        "detectParameterChangeEvents": false,
+        "generateUpdatedCodeTemplate": false,
+        "regeneratePortsMetadata": false,
+        "returnUpdatedCodeWithinSLA": false,
+        "updateNodePortDefinitions": false,
+        "propagateConnectionIntegrityChecks": false,
+        "triggerLiveSimulationRecompile": false,
+        "instrumentRegenerationPipelineTiming": false,
+        "optimizeHotCodePaths": false,
+        "createAutomatedBenchmarkTests": false,
+        "unitTestsParameterParsing": false,
+        "integrationTestsUIRegeneration": false,
+        "regressionTestsExistingSnippets": false,
+        "updateUserGuide": false,
+        "createExampleProjectWithParameters": false,
+        "updateAPIDocsSnippetDevelopers": false,
+        "integrateParameterEditsIntoHistory": false,
+        "ensureUndoRedoTriggersRegeneration": false
       },
       "leftWidth": 415,
-      "scrollLeft": 2050,
+      "scrollLeft": 2054.25,
       "showDatesUnderNames": false
     }
   }
